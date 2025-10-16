@@ -1,2 +1,2 @@
-# Equipo-4-computacion-II
-equipo 2
+# Evolución del consumo de energía per cápita en el mundo (1980–2013)
+
