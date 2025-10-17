@@ -1,4 +1,41 @@
 codigo_pais,pais,año,energia_per_capita,pib_per_capita
+ABW,Aruba,1980,,
+ABW,Aruba,1981,,
+ABW,Aruba,1982,,
+ABW,Aruba,1983,,
+ABW,Aruba,1984,,
+ABW,Aruba,1985,,
+ABW,Aruba,1986,,6283.0
+ABW,Aruba,1987,,7567.25
+ABW,Aruba,1988,,9274.51
+ABW,Aruba,1989,,10767.4
+ABW,Aruba,1990,,11638.73
+ABW,Aruba,1991,,12850.22
+ABW,Aruba,1992,,13657.67
+ABW,Aruba,1993,,14970.15
+ABW,Aruba,1994,,16675.28
+ABW,Aruba,1995,,17140.43
+ABW,Aruba,1996,,17375.23
+ABW,Aruba,1997,,18713.43
+ABW,Aruba,1998,,19742.32
+ABW,Aruba,1999,,19833.83
+ABW,Aruba,2000,,21026.17
+ABW,Aruba,2001,,20911.19
+ABW,Aruba,2002,,21375.27
+ABW,Aruba,2003,,22050.59
+ABW,Aruba,2004,,24105.52
+ABW,Aruba,2005,,24978.22
+ABW,Aruba,2006,,25832.93
+ABW,Aruba,2007,,27665.3
+ABW,Aruba,2008,,29011.64
+ABW,Aruba,2009,,25740.77
+ABW,Aruba,2010,,24452.59
+ABW,Aruba,2011,,26043.16
+ABW,Aruba,2012,,25611.18
+ABW,Aruba,2013,,26514.87
+ARG,Argentina,1980,1491.92,
+ARG,Argentina,1981,1434.06,
+ARG,Argentina,1982,1420.03,
 ARG,Argentina,1983,1423.68,3727.05
 ARG,Argentina,1984,1452.12,3787.47
 ARG,Argentina,1985,1365.23,2919.28
@@ -30,21 +67,108 @@ ARG,Argentina,2010,1928.65,10385.96
 ARG,Argentina,2011,1952.05,12848.74
 ARG,Argentina,2012,1936.8,13082.66
 ARG,Argentina,2013,1967.02,13080.25
+ATG,Antigua and Barbuda,1980,,2025.47
+ATG,Antigua and Barbuda,1981,,2271.83
+ATG,Antigua and Barbuda,1982,,2519.8
+ATG,Antigua and Barbuda,1983,,2784.74
+ATG,Antigua and Barbuda,1984,,3187.98
+ATG,Antigua and Barbuda,1985,,3703.79
+ATG,Antigua and Barbuda,1986,,4488.2
+ATG,Antigua and Barbuda,1987,,5239.46
+ATG,Antigua and Barbuda,1988,,6230.47
+ATG,Antigua and Barbuda,1989,,6895.39
 ATG,Antigua and Barbuda,1990,1560.57,7255.41
+ATG,Antigua and Barbuda,1991,,7569.97
+ATG,Antigua and Barbuda,1992,,7721.76
+ATG,Antigua and Barbuda,1993,,8129.14
+ATG,Antigua and Barbuda,1994,,8788.01
+ATG,Antigua and Barbuda,1995,,8440.03
+ATG,Antigua and Barbuda,1996,,9079.48
+ATG,Antigua and Barbuda,1997,,9556.83
+ATG,Antigua and Barbuda,1998,,10029.48
+ATG,Antigua and Barbuda,1999,,10379.16
+ATG,Antigua and Barbuda,2000,,11010.2
+ATG,Antigua and Barbuda,2001,,10502.94
+ATG,Antigua and Barbuda,2002,,10549.67
+ATG,Antigua and Barbuda,2003,,10968.89
 ATG,Antigua and Barbuda,2004,1710.14,11650.85
 ATG,Antigua and Barbuda,2005,1715.31,12808.01
 ATG,Antigua and Barbuda,2006,1767.72,14310.69
 ATG,Antigua and Barbuda,2007,1780.14,16006.14
+ATG,Antigua and Barbuda,2008,,16457.1
+ATG,Antigua and Barbuda,2009,,14530.6
+ATG,Antigua and Barbuda,2010,,13404.52
+ATG,Antigua and Barbuda,2011,,14774.03
+ATG,Antigua and Barbuda,2012,,15136.84
+ATG,Antigua and Barbuda,2013,,14977.07
+BHS,The Bahamas,1980,,5967.77
+BHS,The Bahamas,1981,,6257.79
+BHS,The Bahamas,1982,,6797.83
+BHS,The Bahamas,1983,,7324.19
+BHS,The Bahamas,1984,,8463.46
+BHS,The Bahamas,1985,,9436.23
+BHS,The Bahamas,1986,,9858.3
+BHS,The Bahamas,1987,,10617.41
+BHS,The Bahamas,1988,,10819.27
+BHS,The Bahamas,1989,,11533.26
 BHS,The Bahamas,1990,2384.07,11696.51
+BHS,The Bahamas,1991,,11269.95
+BHS,The Bahamas,1992,,11025.88
+BHS,The Bahamas,1993,,10730.0
+BHS,The Bahamas,1994,,11085.15
+BHS,The Bahamas,1995,,11447.02
+BHS,The Bahamas,1996,,11835.39
+BHS,The Bahamas,1997,,20415.71
+BHS,The Bahamas,1998,,21665.39
+BHS,The Bahamas,1999,,23991.7
+BHS,The Bahamas,2000,,24849.61
+BHS,The Bahamas,2001,,25234.14
+BHS,The Bahamas,2002,,26590.14
+BHS,The Bahamas,2003,,26204.88
 BHS,The Bahamas,2004,1935.36,26393.41
 BHS,The Bahamas,2005,2001.13,28280.87
 BHS,The Bahamas,2006,2001.91,28829.85
 BHS,The Bahamas,2007,1982.3,29687.87
+BHS,The Bahamas,2008,,29013.63
+BHS,The Bahamas,2009,,27120.69
+BHS,The Bahamas,2010,,27046.66
+BHS,The Bahamas,2011,,26644.93
+BHS,The Bahamas,2012,,28059.39
+BHS,The Bahamas,2013,,26955.79
+BLZ,Belize,1980,,1363.84
+BLZ,Belize,1981,,1318.13
+BLZ,Belize,1982,,1195.51
+BLZ,Belize,1983,,1231.01
+BLZ,Belize,1984,,1342.23
+BLZ,Belize,1985,,1301.08
+BLZ,Belize,1986,,1385.47
+BLZ,Belize,1987,,1643.95
+BLZ,Belize,1988,,1831.02
+BLZ,Belize,1989,,2065.72
 BLZ,Belize,1990,581.73,2988.6
+BLZ,Belize,1991,,3190.87
+BLZ,Belize,1992,,3644.92
+BLZ,Belize,1993,,3862.55
+BLZ,Belize,1994,,3878.97
+BLZ,Belize,1995,,4011.14
+BLZ,Belize,1996,,4042.15
+BLZ,Belize,1997,,4011.02
+BLZ,Belize,1998,,4119.71
+BLZ,Belize,1999,,4283.48
+BLZ,Belize,2000,,4720.17
+BLZ,Belize,2001,,4708.29
+BLZ,Belize,2002,,4844.23
+BLZ,Belize,2003,,4937.09
 BLZ,Belize,2004,569.58,5123.6
 BLZ,Belize,2005,574.23,5236.37
 BLZ,Belize,2006,595.71,5486.83
 BLZ,Belize,2007,598.98,5717.93
+BLZ,Belize,2008,,5665.97
+BLZ,Belize,2009,,5352.1
+BLZ,Belize,2010,,5399.06
+BLZ,Belize,2011,,5519.34
+BLZ,Belize,2012,,5635.52
+BLZ,Belize,2013,,5865.47
 BOL,Bolivia,1980,426.16,775.85
 BOL,Bolivia,1981,437.66,985.59
 BOL,Bolivia,1982,450.34,934.78
@@ -79,6 +203,15 @@ BOL,Bolivia,2010,625.27,1922.06
 BOL,Bolivia,2011,649.34,2304.98
 BOL,Bolivia,2012,734.28,2562.47
 BOL,Bolivia,2013,726.32,2853.8
+BRA,Brazil,1980,931.01,
+BRA,Brazil,1981,872.6,
+BRA,Brazil,1982,867.12,
+BRA,Brazil,1983,868.99,
+BRA,Brazil,1984,904.8,
+BRA,Brazil,1985,945.68,
+BRA,Brazil,1986,969.64,
+BRA,Brazil,1987,987.36,
+BRA,Brazil,1988,981.48,
 BRA,Brazil,1989,982.66,2875.58
 BRA,Brazil,1990,930.33,3065.24
 BRA,Brazil,1991,931.66,2656.5
@@ -104,11 +237,40 @@ BRA,Brazil,2010,1354.08,11249.29
 BRA,Brazil,2011,1362.56,13200.56
 BRA,Brazil,2012,1408.85,12327.51
 BRA,Brazil,2013,1456.11,12258.57
+BRB,Barbados,1980,,3992.04
+BRB,Barbados,1981,,4374.85
+BRB,Barbados,1982,,4552.94
+BRB,Barbados,1983,,4818.68
+BRB,Barbados,1984,,5235.13
+BRB,Barbados,1985,,5465.2
+BRB,Barbados,1986,,5990.46
+BRB,Barbados,1987,,6589.38
+BRB,Barbados,1988,,7005.5
+BRB,Barbados,1989,,7753.03
 BRB,Barbados,1990,1243.83,7772.81
+BRB,Barbados,1991,,7789.39
+BRB,Barbados,1992,,7520.79
+BRB,Barbados,1993,,7905.68
+BRB,Barbados,1994,,8220.28
+BRB,Barbados,1995,,8451.96
+BRB,Barbados,1996,,8994.32
+BRB,Barbados,1997,,9491.48
+BRB,Barbados,1998,,10685.26
+BRB,Barbados,1999,,11173.95
+BRB,Barbados,2000,,11560.25
+BRB,Barbados,2001,,11510.04
+BRB,Barbados,2002,,11658.63
+BRB,Barbados,2003,,11998.18
 BRB,Barbados,2004,1396.62,12828.44
 BRB,Barbados,2005,1447.25,14173.75
 BRB,Barbados,2006,1471.76,15595.64
 BRB,Barbados,2007,1477.28,17219.02
+BRB,Barbados,2008,,17551.86
+BRB,Barbados,2009,,16309.89
+BRB,Barbados,2010,,16494.24
+BRB,Barbados,2011,,16902.49
+BRB,Barbados,2012,,16704.92
+BRB,Barbados,2013,,16923.59
 CHL,Chile,1980,826.38,2531.57
 CHL,Chile,1981,827.41,2965.37
 CHL,Chile,1982,747.8,1653.99
@@ -245,14 +407,108 @@ CUB,Cuba,2010,1093.21,5275.53
 CUB,Cuba,2011,1027.15,6106.01
 CUB,Cuba,2012,1060.43,6467.34
 CUB,Cuba,2013,1018.65,6814.24
+CUW,Curaçao,1980,26517.45,
+CUW,Curaçao,1981,25001.64,
+CUW,Curaçao,1982,27354.02,
+CUW,Curaçao,1983,28902.85,
+CUW,Curaçao,1984,19859.94,
+CUW,Curaçao,1985,11685.02,
+CUW,Curaçao,1986,11099.9,
+CUW,Curaçao,1987,9544.04,
+CUW,Curaçao,1988,8775.99,
+CUW,Curaçao,1989,9465.44,
+CUW,Curaçao,1990,10030.15,
+CUW,Curaçao,1991,10062.53,
+CUW,Curaçao,1992,10501.83,
+CUW,Curaçao,1993,8854.51,
+CUW,Curaçao,1994,8997.12,
+CUW,Curaçao,1995,9055.71,
+CUW,Curaçao,1996,9222.19,
+CUW,Curaçao,1997,16175.2,
+CUW,Curaçao,1998,18814.37,
+CUW,Curaçao,1999,14680.92,
+CUW,Curaçao,2000,15720.11,
+CUW,Curaçao,2001,16994.13,
+CUW,Curaçao,2002,16662.99,
+CUW,Curaçao,2003,15566.69,
+CUW,Curaçao,2004,16180.82,
+CUW,Curaçao,2005,15178.83,
+CUW,Curaçao,2006,14581.11,
+CUW,Curaçao,2007,16222.46,
+CUW,Curaçao,2008,15326.49,
+CUW,Curaçao,2009,15608.49,
+CUW,Curaçao,2010,13710.08,
 CUW,Curaçao,2011,16064.05,19426.33
 CUW,Curaçao,2012,13395.37,19809.82
 CUW,Curaçao,2013,11727.51,19721.29
+CYM,Cayman Islands,1980,,
+CYM,Cayman Islands,1981,,
+CYM,Cayman Islands,1982,,
+CYM,Cayman Islands,1983,,
+CYM,Cayman Islands,1984,,
+CYM,Cayman Islands,1985,,
+CYM,Cayman Islands,1986,,
+CYM,Cayman Islands,1987,,
+CYM,Cayman Islands,1988,,
+CYM,Cayman Islands,1989,,
+CYM,Cayman Islands,1990,,
+CYM,Cayman Islands,1991,,
+CYM,Cayman Islands,1992,,
+CYM,Cayman Islands,1993,,
+CYM,Cayman Islands,1994,,
+CYM,Cayman Islands,1995,,
+CYM,Cayman Islands,1996,,
+CYM,Cayman Islands,1997,,
+CYM,Cayman Islands,1998,,
+CYM,Cayman Islands,1999,,
+CYM,Cayman Islands,2000,,
+CYM,Cayman Islands,2001,,
+CYM,Cayman Islands,2002,,
+CYM,Cayman Islands,2003,,
+CYM,Cayman Islands,2004,,
+CYM,Cayman Islands,2005,,
+CYM,Cayman Islands,2006,,87184.51
+CYM,Cayman Islands,2007,,89960.68
+CYM,Cayman Islands,2008,,89704.22
+CYM,Cayman Islands,2009,,81398.32
+CYM,Cayman Islands,2010,,76873.19
+CYM,Cayman Islands,2011,,75435.61
+CYM,Cayman Islands,2012,,75466.14
+CYM,Cayman Islands,2013,,75685.36
+DMA,Dominica,1980,,997.62
+DMA,Dominica,1981,,1125.81
+DMA,Dominica,1982,,1232.72
+DMA,Dominica,1983,,1365.25
+DMA,Dominica,1984,,1517.42
+DMA,Dominica,1985,,1668.97
+DMA,Dominica,1986,,1897.94
+DMA,Dominica,1987,,2144.8
+DMA,Dominica,1988,,2430.59
+DMA,Dominica,1989,,2645.76
 DMA,Dominica,1990,304.71,2899.06
+DMA,Dominica,1991,,3178.48
+DMA,Dominica,1992,,3386.67
+DMA,Dominica,1993,,3549.65
+DMA,Dominica,1994,,3820.55
+DMA,Dominica,1995,,3967.03
+DMA,Dominica,1996,,4225.85
+DMA,Dominica,1997,,4385.99
+DMA,Dominica,1998,,4676.83
+DMA,Dominica,1999,,4829.24
+DMA,Dominica,2000,,4879.15
+DMA,Dominica,2001,,4991.76
+DMA,Dominica,2002,,4881.14
+DMA,Dominica,2003,,5016.09
 DMA,Dominica,2004,568.73,5354.8
 DMA,Dominica,2005,597.02,5304.13
 DMA,Dominica,2006,610.98,5677.05
 DMA,Dominica,2007,625.23,6126.85
+DMA,Dominica,2008,,6661.47
+DMA,Dominica,2009,,7109.98
+DMA,Dominica,2010,,7182.4
+DMA,Dominica,2011,,7288.5
+DMA,Dominica,2012,,7054.88
+DMA,Dominica,2013,,7240.68
 DOM,Dominican Republic,1980,596.73,1174.69
 DOM,Dominican Republic,1981,603.8,1284.79
 DOM,Dominican Republic,1982,603.27,1374.47
@@ -321,11 +577,40 @@ ECU,Ecuador,2010,785.18,4640.25
 ECU,Ecuador,2011,817.91,5202.66
 ECU,Ecuador,2012,794.64,5678.46
 ECU,Ecuador,2013,843.15,6050.35
+GRD,Grenada,1980,,1169.37
+GRD,Grenada,1981,,1214.55
+GRD,Grenada,1982,,1299.39
+GRD,Grenada,1983,,1342.51
+GRD,Grenada,1984,,1460.91
+GRD,Grenada,1985,,1667.68
+GRD,Grenada,1986,,1859.29
+GRD,Grenada,1987,,2137.29
+GRD,Grenada,1988,,2366.49
+GRD,Grenada,1989,,2694.18
 GRD,Grenada,1990,428.83,2807.75
+GRD,Grenada,1991,,3014.87
+GRD,Grenada,1992,,3069.68
+GRD,Grenada,1993,,3032.23
+GRD,Grenada,1994,,3151.1
+GRD,Grenada,1995,,3288.22
+GRD,Grenada,1996,,3499.53
+GRD,Grenada,1997,,3715.72
+GRD,Grenada,1998,,4198.72
+GRD,Grenada,1999,,4512.22
+GRD,Grenada,2000,,4840.68
+GRD,Grenada,2001,,4821.78
+GRD,Grenada,2002,,4992.44
+GRD,Grenada,2003,,5435.15
 GRD,Grenada,2004,675.7,5470.6
 GRD,Grenada,2005,716.53,6308.67
 GRD,Grenada,2006,729.81,6295.28
 GRD,Grenada,2007,724.99,6790.63
+GRD,Grenada,2008,,7343.45
+GRD,Grenada,2009,,6810.44
+GRD,Grenada,2010,,6760.97
+GRD,Grenada,2011,,6775.75
+GRD,Grenada,2012,,6900.77
+GRD,Grenada,2013,,7205.25
 GTM,Guatemala,1980,550.39,1143.44
 GTM,Guatemala,1981,521.64,1217.26
 GTM,Guatemala,1982,499.03,1200.25
@@ -360,11 +645,40 @@ GTM,Guatemala,2010,714.91,2852.56
 GTM,Guatemala,2011,750.61,3228.04
 GTM,Guatemala,2012,749.04,3355.03
 GTM,Guatemala,2013,800.65,3522.77
+GUY,Guyana,1980,,775.15
+GUY,Guyana,1981,,731.52
+GUY,Guyana,1982,,618.23
+GUY,Guyana,1983,,628.66
+GUY,Guyana,1984,,563.95
+GUY,Guyana,1985,,586.91
+GUY,Guyana,1986,,656.66
+GUY,Guyana,1987,,464.3
+GUY,Guyana,1988,,545.59
+GUY,Guyana,1989,,504.42
 GUY,Guyana,1990,511.41,530.82
+GUY,Guyana,1991,,468.4
+GUY,Guyana,1992,,501.44
+GUY,Guyana,1993,,607.75
+GUY,Guyana,1994,,721.6
+GUY,Guyana,1995,,826.97
+GUY,Guyana,1996,,936.08
+GUY,Guyana,1997,,991.96
+GUY,Guyana,1998,,948.24
+GUY,Guyana,1999,,916.55
+GUY,Guyana,2000,,938.89
+GUY,Guyana,2001,,937.3
+GUY,Guyana,2002,,955.03
+GUY,Guyana,2003,,976.99
 GUY,Guyana,2004,629.91,1036.02
 GUY,Guyana,2005,651.57,1085.78
 GUY,Guyana,2006,659.31,3138.08
 GUY,Guyana,2007,660.92,3609.91
+GUY,Guyana,2008,,4011.39
+GUY,Guyana,2009,,4213.82
+GUY,Guyana,2010,,4589.87
+GUY,Guyana,2011,,4960.0
+GUY,Guyana,2012,,5461.39
+GUY,Guyana,2013,,5576.25
 HND,Honduras,1980,495.11,1050.34
 HND,Honduras,1981,477.37,1038.03
 HND,Honduras,1982,501.3,1062.47
@@ -467,16 +781,108 @@ JAM,Jamaica,2010,978.06,4835.79
 JAM,Jamaica,2011,1038.66,5259.93
 JAM,Jamaica,2012,1003.53,5365.24
 JAM,Jamaica,2013,1037.77,5143.72
+KNA,St. Kitts and Nevis,1980,,1588.49
+KNA,St. Kitts and Nevis,1981,,1883.2
+KNA,St. Kitts and Nevis,1982,,2010.15
+KNA,St. Kitts and Nevis,1983,,2039.3
+KNA,St. Kitts and Nevis,1984,,2326.66
+KNA,St. Kitts and Nevis,1985,,2634.0
+KNA,St. Kitts and Nevis,1986,,3119.8
+KNA,St. Kitts and Nevis,1987,,3550.19
+KNA,St. Kitts and Nevis,1988,,4179.29
+KNA,St. Kitts and Nevis,1989,,4696.49
 KNA,St. Kitts and Nevis,1990,531.57,5346.47
+KNA,St. Kitts and Nevis,1991,,5439.81
+KNA,St. Kitts and Nevis,1992,,5920.22
+KNA,St. Kitts and Nevis,1993,,6363.68
+KNA,St. Kitts and Nevis,1994,,7027.43
+KNA,St. Kitts and Nevis,1995,,7367.45
+KNA,St. Kitts and Nevis,1996,,7748.67
+KNA,St. Kitts and Nevis,1997,,8581.67
+KNA,St. Kitts and Nevis,1998,,8665.1
+KNA,St. Kitts and Nevis,1999,,9070.73
+KNA,St. Kitts and Nevis,2000,,9275.99
+KNA,St. Kitts and Nevis,2001,,9973.55
+KNA,St. Kitts and Nevis,2002,,10398.53
+KNA,St. Kitts and Nevis,2003,,10119.74
 KNA,St. Kitts and Nevis,2004,1631.6,10882.35
 KNA,St. Kitts and Nevis,2005,1690.74,11711.15
 KNA,St. Kitts and Nevis,2006,1685.37,13747.81
 KNA,St. Kitts and Nevis,2007,1765.39,14660.96
+KNA,St. Kitts and Nevis,2008,,16491.89
+KNA,St. Kitts and Nevis,2009,,16374.26
+KNA,St. Kitts and Nevis,2010,,16427.62
+KNA,St. Kitts and Nevis,2011,,17571.98
+KNA,St. Kitts and Nevis,2012,,17293.81
+KNA,St. Kitts and Nevis,2013,,18315.91
+LCA,St. Lucia,1980,,1400.69
+LCA,St. Lucia,1981,,1569.25
+LCA,St. Lucia,1982,,1452.79
+LCA,St. Lucia,1983,,1534.08
+LCA,St. Lucia,1984,,1925.22
+LCA,St. Lucia,1985,,2142.69
+LCA,St. Lucia,1986,,2522.07
+LCA,St. Lucia,1987,,2745.69
+LCA,St. Lucia,1988,,3098.44
+LCA,St. Lucia,1989,,3464.88
 LCA,St. Lucia,1990,392.97,4073.26
+LCA,St. Lucia,1991,,4253.91
+LCA,St. Lucia,1992,,4603.7
+LCA,St. Lucia,1993,,4608.6
+LCA,St. Lucia,1994,,4740.3
+LCA,St. Lucia,1995,,5008.03
+LCA,St. Lucia,1996,,5123.69
+LCA,St. Lucia,1997,,5184.34
+LCA,St. Lucia,1998,,5593.75
+LCA,St. Lucia,1999,,5825.07
+LCA,St. Lucia,2000,,5846.98
+LCA,St. Lucia,2001,,5558.07
+LCA,St. Lucia,2002,,5562.46
+LCA,St. Lucia,2003,,6055.97
 LCA,St. Lucia,2004,730.64,6494.6
 LCA,St. Lucia,2005,743.71,6866.09
 LCA,St. Lucia,2006,714.84,7618.91
 LCA,St. Lucia,2007,764.1,7975.79
+LCA,St. Lucia,2008,,8528.68
+LCA,St. Lucia,2009,,8259.32
+LCA,St. Lucia,2010,,8672.22
+LCA,St. Lucia,2011,,9110.75
+LCA,St. Lucia,2012,,9231.58
+LCA,St. Lucia,2013,,9542.71
+MAF,St. Martin (French part),1980,,
+MAF,St. Martin (French part),1981,,
+MAF,St. Martin (French part),1982,,
+MAF,St. Martin (French part),1983,,
+MAF,St. Martin (French part),1984,,
+MAF,St. Martin (French part),1985,,
+MAF,St. Martin (French part),1986,,
+MAF,St. Martin (French part),1987,,
+MAF,St. Martin (French part),1988,,
+MAF,St. Martin (French part),1989,,
+MAF,St. Martin (French part),1990,,
+MAF,St. Martin (French part),1991,,
+MAF,St. Martin (French part),1992,,
+MAF,St. Martin (French part),1993,,
+MAF,St. Martin (French part),1994,,
+MAF,St. Martin (French part),1995,,
+MAF,St. Martin (French part),1996,,
+MAF,St. Martin (French part),1997,,
+MAF,St. Martin (French part),1998,,
+MAF,St. Martin (French part),1999,,
+MAF,St. Martin (French part),2000,,
+MAF,St. Martin (French part),2001,,
+MAF,St. Martin (French part),2002,,
+MAF,St. Martin (French part),2003,,
+MAF,St. Martin (French part),2004,,
+MAF,St. Martin (French part),2005,,
+MAF,St. Martin (French part),2006,,
+MAF,St. Martin (French part),2007,,
+MAF,St. Martin (French part),2008,,
+MAF,St. Martin (French part),2009,,
+MAF,St. Martin (French part),2010,,
+MAF,St. Martin (French part),2011,,21344.59
+MAF,St. Martin (French part),2012,,
+MAF,St. Martin (French part),2013,,
 MEX,Mexico,1980,1404.83,3036.36
 MEX,Mexico,1981,1466.89,3810.25
 MEX,Mexico,1982,1504.26,2612.67
@@ -511,6 +917,14 @@ MEX,Mexico,2010,1553.0,9823.16
 MEX,Mexico,2011,1608.55,10766.61
 MEX,Mexico,2012,1656.14,10842.73
 MEX,Mexico,2013,1637.79,11317.49
+NIC,Nicaragua,1980,464.61,
+NIC,Nicaragua,1981,463.91,
+NIC,Nicaragua,1982,461.69,
+NIC,Nicaragua,1983,468.83,
+NIC,Nicaragua,1984,502.87,
+NIC,Nicaragua,1985,513.24,
+NIC,Nicaragua,1986,501.38,
+NIC,Nicaragua,1987,494.92,
 NIC,Nicaragua,1988,457.34,641.91
 NIC,Nicaragua,1989,478.91,245.36
 NIC,Nicaragua,1990,477.57,238.77
@@ -571,6 +985,8 @@ PAN,Panama,2010,995.89,8124.56
 PAN,Panama,2011,1061.57,9403.44
 PAN,Panama,2012,1076.72,10767.29
 PAN,Panama,2013,1039.34,11932.29
+PER,Peru,1980,643.58,
+PER,Peru,1981,631.68,
 PER,Peru,1982,627.61,827.41
 PER,Peru,1983,563.22,750.23
 PER,Peru,1984,563.3,1054.64
@@ -603,6 +1019,40 @@ PER,Peru,2010,638.62,5047.2
 PER,Peru,2011,644.56,5826.83
 PER,Peru,2012,687.3,6475.72
 PER,Peru,2013,678.12,6697.19
+PRI,Puerto Rico,1980,,4502.84
+PRI,Puerto Rico,1981,,4920.72
+PRI,Puerto Rico,1982,,5115.01
+PRI,Puerto Rico,1983,,5217.72
+PRI,Puerto Rico,1984,,5730.12
+PRI,Puerto Rico,1985,,6008.05
+PRI,Puerto Rico,1986,,6455.18
+PRI,Puerto Rico,1987,,6980.49
+PRI,Puerto Rico,1988,,7595.44
+PRI,Puerto Rico,1989,,8033.09
+PRI,Puerto Rico,1990,,8652.51
+PRI,Puerto Rico,1991,,9064.02
+PRI,Puerto Rico,1992,,9659.34
+PRI,Puerto Rico,1993,,10212.28
+PRI,Puerto Rico,1994,,10876.42
+PRI,Puerto Rico,1995,,11579.18
+PRI,Puerto Rico,1996,,12173.16
+PRI,Puerto Rico,1997,,12817.64
+PRI,Puerto Rico,1998,,14304.4
+PRI,Puerto Rico,1999,,15220.99
+PRI,Puerto Rico,2000,,16192.13
+PRI,Puerto Rico,2001,,18123.2
+PRI,Puerto Rico,2002,,18731.46
+PRI,Puerto Rico,2003,,19557.12
+PRI,Puerto Rico,2004,,20988.99
+PRI,Puerto Rico,2005,,21959.32
+PRI,Puerto Rico,2006,,22935.94
+PRI,Puerto Rico,2007,,23664.88
+PRI,Puerto Rico,2008,,24898.33
+PRI,Puerto Rico,2009,,25768.73
+PRI,Puerto Rico,2010,,26435.75
+PRI,Puerto Rico,2011,,27278.88
+PRI,Puerto Rico,2012,,27944.73
+PRI,Puerto Rico,2013,,28513.17
 PRY,Paraguay,1980,677.08,1444.69
 PRY,Paraguay,1981,657.92,1778.05
 PRY,Paraguay,1982,652.96,1666.65
@@ -671,6 +1121,26 @@ SLV,El Salvador,2010,695.13,3017.31
 SLV,El Salvador,2011,699.18,3304.97
 SLV,El Salvador,2012,685.75,3471.05
 SLV,El Salvador,2013,644.85,3555.16
+SUR,Suriname,1980,,2119.37
+SUR,Suriname,1981,,2365.25
+SUR,Suriname,1982,,2425.2
+SUR,Suriname,1983,,2328.62
+SUR,Suriname,1984,,2258.13
+SUR,Suriname,1985,,2254.82
+SUR,Suriname,1986,,2270.8
+SUR,Suriname,1987,,2469.34
+SUR,Suriname,1988,,2887.06
+SUR,Suriname,1989,,1328.73
+SUR,Suriname,1990,,940.99
+SUR,Suriname,1991,,1077.21
+SUR,Suriname,1992,,964.43
+SUR,Suriname,1993,,1015.13
+SUR,Suriname,1994,,1419.52
+SUR,Suriname,1995,,1591.73
+SUR,Suriname,1996,,1940.75
+SUR,Suriname,1997,,2045.59
+SUR,Suriname,1998,,2405.74
+SUR,Suriname,1999,,1883.89
 SUR,Suriname,2000,1316.67,1978.45
 SUR,Suriname,2001,1385.62,1711.71
 SUR,Suriname,2002,952.13,2206.27
@@ -685,6 +1155,74 @@ SUR,Suriname,2010,1313.55,7999.51
 SUR,Suriname,2011,1265.43,8009.25
 SUR,Suriname,2012,1396.88,8922.96
 SUR,Suriname,2013,1226.91,9124.54
+SXM,Sint Maarten (Dutch part),1980,,
+SXM,Sint Maarten (Dutch part),1981,,
+SXM,Sint Maarten (Dutch part),1982,,
+SXM,Sint Maarten (Dutch part),1983,,
+SXM,Sint Maarten (Dutch part),1984,,
+SXM,Sint Maarten (Dutch part),1985,,
+SXM,Sint Maarten (Dutch part),1986,,
+SXM,Sint Maarten (Dutch part),1987,,
+SXM,Sint Maarten (Dutch part),1988,,
+SXM,Sint Maarten (Dutch part),1989,,
+SXM,Sint Maarten (Dutch part),1990,,
+SXM,Sint Maarten (Dutch part),1991,,
+SXM,Sint Maarten (Dutch part),1992,,
+SXM,Sint Maarten (Dutch part),1993,,
+SXM,Sint Maarten (Dutch part),1994,,
+SXM,Sint Maarten (Dutch part),1995,,
+SXM,Sint Maarten (Dutch part),1996,,
+SXM,Sint Maarten (Dutch part),1997,,
+SXM,Sint Maarten (Dutch part),1998,,
+SXM,Sint Maarten (Dutch part),1999,,
+SXM,Sint Maarten (Dutch part),2000,,
+SXM,Sint Maarten (Dutch part),2001,,
+SXM,Sint Maarten (Dutch part),2002,,
+SXM,Sint Maarten (Dutch part),2003,,
+SXM,Sint Maarten (Dutch part),2004,,
+SXM,Sint Maarten (Dutch part),2005,,
+SXM,Sint Maarten (Dutch part),2006,,
+SXM,Sint Maarten (Dutch part),2007,,
+SXM,Sint Maarten (Dutch part),2008,,
+SXM,Sint Maarten (Dutch part),2009,,
+SXM,Sint Maarten (Dutch part),2010,,
+SXM,Sint Maarten (Dutch part),2011,,27997.29
+SXM,Sint Maarten (Dutch part),2012,,28460.33
+SXM,Sint Maarten (Dutch part),2013,,27942.88
+TCA,Turks and Caicos Islands,1980,,
+TCA,Turks and Caicos Islands,1981,,
+TCA,Turks and Caicos Islands,1982,,
+TCA,Turks and Caicos Islands,1983,,
+TCA,Turks and Caicos Islands,1984,,
+TCA,Turks and Caicos Islands,1985,,
+TCA,Turks and Caicos Islands,1986,,
+TCA,Turks and Caicos Islands,1987,,
+TCA,Turks and Caicos Islands,1988,,
+TCA,Turks and Caicos Islands,1989,,
+TCA,Turks and Caicos Islands,1990,,
+TCA,Turks and Caicos Islands,1991,,
+TCA,Turks and Caicos Islands,1992,,
+TCA,Turks and Caicos Islands,1993,,
+TCA,Turks and Caicos Islands,1994,,
+TCA,Turks and Caicos Islands,1995,,
+TCA,Turks and Caicos Islands,1996,,
+TCA,Turks and Caicos Islands,1997,,
+TCA,Turks and Caicos Islands,1998,,
+TCA,Turks and Caicos Islands,1999,,
+TCA,Turks and Caicos Islands,2000,,
+TCA,Turks and Caicos Islands,2001,,18323.87
+TCA,Turks and Caicos Islands,2002,,17803.08
+TCA,Turks and Caicos Islands,2003,,18848.78
+TCA,Turks and Caicos Islands,2004,,21233.93
+TCA,Turks and Caicos Islands,2005,,24115.27
+TCA,Turks and Caicos Islands,2006,,28728.57
+TCA,Turks and Caicos Islands,2007,,29446.08
+TCA,Turks and Caicos Islands,2008,,31459.54
+TCA,Turks and Caicos Islands,2009,,24602.91
+TCA,Turks and Caicos Islands,2010,,23103.94
+TCA,Turks and Caicos Islands,2011,,23649.71
+TCA,Turks and Caicos Islands,2012,,22666.41
+TCA,Turks and Caicos Islands,2013,,22451.57
 TTO,Trinidad and Tobago,1980,3394.0,5528.95
 TTO,Trinidad and Tobago,1981,3556.8,6118.94
 TTO,Trinidad and Tobago,1982,3533.02,7034.95
@@ -753,11 +1291,40 @@ URY,Uruguay,2010,1219.05,12512.59
 URY,Uruguay,2011,1314.33,14975.56
 URY,Uruguay,2012,1375.59,16087.25
 URY,Uruguay,2013,1361.15,18140.89
+VCT,St. Vincent and the Grenadines,1980,,766.1
+VCT,St. Vincent and the Grenadines,1981,,943.58
+VCT,St. Vincent and the Grenadines,1982,,1043.91
+VCT,St. Vincent and the Grenadines,1983,,1114.61
+VCT,St. Vincent and the Grenadines,1984,,1223.84
+VCT,St. Vincent and the Grenadines,1985,,1313.2
+VCT,St. Vincent and the Grenadines,1986,,1444.02
+VCT,St. Vincent and the Grenadines,1987,,1570.91
+VCT,St. Vincent and the Grenadines,1988,,1790.99
+VCT,St. Vincent and the Grenadines,1989,,1911.9
 VCT,St. Vincent and the Grenadines,1990,261.66,2136.84
+VCT,St. Vincent and the Grenadines,1991,,2259.53
+VCT,St. Vincent and the Grenadines,1992,,2454.96
+VCT,St. Vincent and the Grenadines,1993,,2519.85
+VCT,St. Vincent and the Grenadines,1994,,2540.17
+VCT,St. Vincent and the Grenadines,1995,,2767.77
+VCT,St. Vincent and the Grenadines,1996,,2900.42
+VCT,St. Vincent and the Grenadines,1997,,3043.25
+VCT,St. Vincent and the Grenadines,1998,,3272.62
+VCT,St. Vincent and the Grenadines,1999,,3427.51
+VCT,St. Vincent and the Grenadines,2000,,3760.08
+VCT,St. Vincent and the Grenadines,2001,,4066.07
+VCT,St. Vincent and the Grenadines,2002,,4299.37
+VCT,St. Vincent and the Grenadines,2003,,4500.93
 VCT,St. Vincent and the Grenadines,2004,586.1,4883.31
 VCT,St. Vincent and the Grenadines,2005,597.98,5176.13
 VCT,St. Vincent and the Grenadines,2006,628.21,5775.09
 VCT,St. Vincent and the Grenadines,2007,631.63,6439.01
+VCT,St. Vincent and the Grenadines,2008,,6641.5
+VCT,St. Vincent and the Grenadines,2009,,6503.1
+VCT,St. Vincent and the Grenadines,2010,,6590.99
+VCT,St. Vincent and the Grenadines,2011,,6566.48
+VCT,St. Vincent and the Grenadines,2012,,6754.37
+VCT,St. Vincent and the Grenadines,2013,,7117.55
 VEN,Venezuela,1980,2147.55,3886.57
 VEN,Venezuela,1981,2239.16,4241.31
 VEN,Venezuela,1982,2170.59,4214.67
@@ -792,3 +1359,71 @@ VEN,Venezuela,2010,2520.65,13692.91
 VEN,Venezuela,2011,2309.51,10877.11
 VEN,Venezuela,2012,2479.16,12937.93
 VEN,Venezuela,2013,2304.53,12433.98
+VGB,British Virgin Islands,1980,,
+VGB,British Virgin Islands,1981,,
+VGB,British Virgin Islands,1982,,
+VGB,British Virgin Islands,1983,,
+VGB,British Virgin Islands,1984,,
+VGB,British Virgin Islands,1985,,
+VGB,British Virgin Islands,1986,,
+VGB,British Virgin Islands,1987,,
+VGB,British Virgin Islands,1988,,
+VGB,British Virgin Islands,1989,,
+VGB,British Virgin Islands,1990,,
+VGB,British Virgin Islands,1991,,
+VGB,British Virgin Islands,1992,,
+VGB,British Virgin Islands,1993,,
+VGB,British Virgin Islands,1994,,
+VGB,British Virgin Islands,1995,,
+VGB,British Virgin Islands,1996,,
+VGB,British Virgin Islands,1997,,
+VGB,British Virgin Islands,1998,,
+VGB,British Virgin Islands,1999,,
+VGB,British Virgin Islands,2000,,
+VGB,British Virgin Islands,2001,,
+VGB,British Virgin Islands,2002,,
+VGB,British Virgin Islands,2003,,
+VGB,British Virgin Islands,2004,,
+VGB,British Virgin Islands,2005,,
+VGB,British Virgin Islands,2006,,
+VGB,British Virgin Islands,2007,,
+VGB,British Virgin Islands,2008,,
+VGB,British Virgin Islands,2009,,
+VGB,British Virgin Islands,2010,,
+VGB,British Virgin Islands,2011,,
+VGB,British Virgin Islands,2012,,
+VGB,British Virgin Islands,2013,,
+VIR,Virgin Islands,1980,,
+VIR,Virgin Islands,1981,,
+VIR,Virgin Islands,1982,,
+VIR,Virgin Islands,1983,,
+VIR,Virgin Islands,1984,,
+VIR,Virgin Islands,1985,,
+VIR,Virgin Islands,1986,,
+VIR,Virgin Islands,1987,,
+VIR,Virgin Islands,1988,,
+VIR,Virgin Islands,1989,,
+VIR,Virgin Islands,1990,,
+VIR,Virgin Islands,1991,,
+VIR,Virgin Islands,1992,,
+VIR,Virgin Islands,1993,,
+VIR,Virgin Islands,1994,,
+VIR,Virgin Islands,1995,,
+VIR,Virgin Islands,1996,,
+VIR,Virgin Islands,1997,,
+VIR,Virgin Islands,1998,,
+VIR,Virgin Islands,1999,,
+VIR,Virgin Islands,2000,,
+VIR,Virgin Islands,2001,,
+VIR,Virgin Islands,2002,,30062.02
+VIR,Virgin Islands,2003,,31731.26
+VIR,Virgin Islands,2004,,35006.36
+VIR,Virgin Islands,2005,,40828.75
+VIR,Virgin Islands,2006,,41377.15
+VIR,Virgin Islands,2007,,44158.51
+VIR,Virgin Islands,2008,,39152.38
+VIR,Virgin Islands,2009,,38753.18
+VIR,Virgin Islands,2010,,39905.13
+VIR,Virgin Islands,2011,,38997.14
+VIR,Virgin Islands,2012,,37795.32
+VIR,Virgin Islands,2013,,34597.98

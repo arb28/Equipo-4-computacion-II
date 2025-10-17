@@ -12,7 +12,5 @@ JOIN indicators as p
     AND i.year = p.year
 WHERE i.indicator_code = 'EG.USE.PCAP.KG.OE'
   AND p.indicator_code = 'NY.GDP.PCAP.CD'
-  AND i.value IS NOT NULL
-  AND p.value IS NOT NULL
   AND i.year BETWEEN 1980 AND 2013
   AND c.region = "Latin America & Caribbean"
