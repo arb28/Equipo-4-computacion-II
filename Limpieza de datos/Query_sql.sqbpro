@@ -1,15 +1,18 @@
 SELECT 
     i.country_code as codigo_pais,
     c.short_name AS pais,
-    c.income_group as nivel_ingreso,
     i.year as "año",
-	i.indicator_code as "codigo_indicador",
-	c.region,
-    ROUND(i.value, 2) AS energia_per_capita
+    ROUND(i.value, 2) AS energia_per_capita,
+	ROUND(p.value, 2) AS pib_per_capita
 FROM indicators AS i
 JOIN country AS c 
     ON i.country_code = c.country_code
+JOIN indicators as p
+    ON i.country_code = p.country_code 
+    AND i.year = p.year
 WHERE i.indicator_code = 'EG.USE.PCAP.KG.OE'
+  AND p.indicator_code = 'NY.GDP.PCAP.CD'
   AND i.value IS NOT NULL
+  AND p.value IS NOT NULL
   AND i.year BETWEEN 1980 AND 2013
   AND c.region = "Latin America & Caribbean"
