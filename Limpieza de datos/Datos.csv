@@ -1,0 +1,847 @@
+codigo_pais,pais,nivel_ingreso,a�o,codigo_indicador,region,energia_per_capita
+ARG,Argentina,Upper middle income,1980,EG.USE.PCAP.KG.OE,Latin America & Caribbean,1491.92
+ARG,Argentina,Upper middle income,1981,EG.USE.PCAP.KG.OE,Latin America & Caribbean,1434.06
+ARG,Argentina,Upper middle income,1982,EG.USE.PCAP.KG.OE,Latin America & Caribbean,1420.03
+ARG,Argentina,Upper middle income,1983,EG.USE.PCAP.KG.OE,Latin America & Caribbean,1423.68
+ARG,Argentina,Upper middle income,1984,EG.USE.PCAP.KG.OE,Latin America & Caribbean,1452.12
+ARG,Argentina,Upper middle income,1985,EG.USE.PCAP.KG.OE,Latin America & Caribbean,1365.23
+ARG,Argentina,Upper middle income,1986,EG.USE.PCAP.KG.OE,Latin America & Caribbean,1426.58
+ARG,Argentina,Upper middle income,1987,EG.USE.PCAP.KG.OE,Latin America & Caribbean,1482.25
+ARG,Argentina,Upper middle income,1988,EG.USE.PCAP.KG.OE,Latin America & Caribbean,1509.79
+ARG,Argentina,Upper middle income,1989,EG.USE.PCAP.KG.OE,Latin America & Caribbean,1445.86
+ARG,Argentina,Upper middle income,1990,EG.USE.PCAP.KG.OE,Latin America & Caribbean,1411.36
+ARG,Argentina,Upper middle income,1991,EG.USE.PCAP.KG.OE,Latin America & Caribbean,1434.32
+ARG,Argentina,Upper middle income,1992,EG.USE.PCAP.KG.OE,Latin America & Caribbean,1487.62
+ARG,Argentina,Upper middle income,1993,EG.USE.PCAP.KG.OE,Latin America & Caribbean,1471.83
+ARG,Argentina,Upper middle income,1994,EG.USE.PCAP.KG.OE,Latin America & Caribbean,1544.76
+ARG,Argentina,Upper middle income,1995,EG.USE.PCAP.KG.OE,Latin America & Caribbean,1546.51
+ARG,Argentina,Upper middle income,1996,EG.USE.PCAP.KG.OE,Latin America & Caribbean,1583.49
+ARG,Argentina,Upper middle income,1997,EG.USE.PCAP.KG.OE,Latin America & Caribbean,1614.73
+ARG,Argentina,Upper middle income,1998,EG.USE.PCAP.KG.OE,Latin America & Caribbean,1650.73
+ARG,Argentina,Upper middle income,1999,EG.USE.PCAP.KG.OE,Latin America & Caribbean,1659.77
+ARG,Argentina,Upper middle income,2000,EG.USE.PCAP.KG.OE,Latin America & Caribbean,1660.52
+ARG,Argentina,Upper middle income,2001,EG.USE.PCAP.KG.OE,Latin America & Caribbean,1562.31
+ARG,Argentina,Upper middle income,2002,EG.USE.PCAP.KG.OE,Latin America & Caribbean,1502.21
+ARG,Argentina,Upper middle income,2003,EG.USE.PCAP.KG.OE,Latin America & Caribbean,1590.84
+ARG,Argentina,Upper middle income,2004,EG.USE.PCAP.KG.OE,Latin America & Caribbean,1720.31
+ARG,Argentina,Upper middle income,2005,EG.USE.PCAP.KG.OE,Latin America & Caribbean,1712.85
+ARG,Argentina,Upper middle income,2006,EG.USE.PCAP.KG.OE,Latin America & Caribbean,1844.27
+ARG,Argentina,Upper middle income,2007,EG.USE.PCAP.KG.OE,Latin America & Caribbean,1849.45
+ARG,Argentina,Upper middle income,2008,EG.USE.PCAP.KG.OE,Latin America & Caribbean,1928.33
+ARG,Argentina,Upper middle income,2009,EG.USE.PCAP.KG.OE,Latin America & Caribbean,1856.1
+ARG,Argentina,Upper middle income,2010,EG.USE.PCAP.KG.OE,Latin America & Caribbean,1928.65
+ARG,Argentina,Upper middle income,2011,EG.USE.PCAP.KG.OE,Latin America & Caribbean,1952.05
+ARG,Argentina,Upper middle income,2012,EG.USE.PCAP.KG.OE,Latin America & Caribbean,1936.8
+ARG,Argentina,Upper middle income,2013,EG.USE.PCAP.KG.OE,Latin America & Caribbean,1967.02
+ATG,Antigua and Barbuda,High income,1990,EG.USE.PCAP.KG.OE,Latin America & Caribbean,1560.57
+ATG,Antigua and Barbuda,High income,2004,EG.USE.PCAP.KG.OE,Latin America & Caribbean,1710.14
+ATG,Antigua and Barbuda,High income,2005,EG.USE.PCAP.KG.OE,Latin America & Caribbean,1715.31
+ATG,Antigua and Barbuda,High income,2006,EG.USE.PCAP.KG.OE,Latin America & Caribbean,1767.72
+ATG,Antigua and Barbuda,High income,2007,EG.USE.PCAP.KG.OE,Latin America & Caribbean,1780.14
+BHS,The Bahamas,High income,1990,EG.USE.PCAP.KG.OE,Latin America & Caribbean,2384.07
+BHS,The Bahamas,High income,2004,EG.USE.PCAP.KG.OE,Latin America & Caribbean,1935.36
+BHS,The Bahamas,High income,2005,EG.USE.PCAP.KG.OE,Latin America & Caribbean,2001.13
+BHS,The Bahamas,High income,2006,EG.USE.PCAP.KG.OE,Latin America & Caribbean,2001.91
+BHS,The Bahamas,High income,2007,EG.USE.PCAP.KG.OE,Latin America & Caribbean,1982.3
+BLZ,Belize,Upper middle income,1990,EG.USE.PCAP.KG.OE,Latin America & Caribbean,581.73
+BLZ,Belize,Upper middle income,2004,EG.USE.PCAP.KG.OE,Latin America & Caribbean,569.58
+BLZ,Belize,Upper middle income,2005,EG.USE.PCAP.KG.OE,Latin America & Caribbean,574.23
+BLZ,Belize,Upper middle income,2006,EG.USE.PCAP.KG.OE,Latin America & Caribbean,595.71
+BLZ,Belize,Upper middle income,2007,EG.USE.PCAP.KG.OE,Latin America & Caribbean,598.98
+BOL,Bolivia,Lower middle income,1980,EG.USE.PCAP.KG.OE,Latin America & Caribbean,426.16
+BOL,Bolivia,Lower middle income,1981,EG.USE.PCAP.KG.OE,Latin America & Caribbean,437.66
+BOL,Bolivia,Lower middle income,1982,EG.USE.PCAP.KG.OE,Latin America & Caribbean,450.34
+BOL,Bolivia,Lower middle income,1983,EG.USE.PCAP.KG.OE,Latin America & Caribbean,418.17
+BOL,Bolivia,Lower middle income,1984,EG.USE.PCAP.KG.OE,Latin America & Caribbean,408.26
+BOL,Bolivia,Lower middle income,1985,EG.USE.PCAP.KG.OE,Latin America & Caribbean,394.64
+BOL,Bolivia,Lower middle income,1986,EG.USE.PCAP.KG.OE,Latin America & Caribbean,365.26
+BOL,Bolivia,Lower middle income,1987,EG.USE.PCAP.KG.OE,Latin America & Caribbean,331.32
+BOL,Bolivia,Lower middle income,1988,EG.USE.PCAP.KG.OE,Latin America & Caribbean,338.95
+BOL,Bolivia,Lower middle income,1989,EG.USE.PCAP.KG.OE,Latin America & Caribbean,353.53
+BOL,Bolivia,Lower middle income,1990,EG.USE.PCAP.KG.OE,Latin America & Caribbean,367.89
+BOL,Bolivia,Lower middle income,1991,EG.USE.PCAP.KG.OE,Latin America & Caribbean,371.46
+BOL,Bolivia,Lower middle income,1992,EG.USE.PCAP.KG.OE,Latin America & Caribbean,385.49
+BOL,Bolivia,Lower middle income,1993,EG.USE.PCAP.KG.OE,Latin America & Caribbean,403.93
+BOL,Bolivia,Lower middle income,1994,EG.USE.PCAP.KG.OE,Latin America & Caribbean,436
+BOL,Bolivia,Lower middle income,1995,EG.USE.PCAP.KG.OE,Latin America & Caribbean,480.07
+BOL,Bolivia,Lower middle income,1996,EG.USE.PCAP.KG.OE,Latin America & Caribbean,506.58
+BOL,Bolivia,Lower middle income,1997,EG.USE.PCAP.KG.OE,Latin America & Caribbean,542.43
+BOL,Bolivia,Lower middle income,1998,EG.USE.PCAP.KG.OE,Latin America & Caribbean,538.42
+BOL,Bolivia,Lower middle income,1999,EG.USE.PCAP.KG.OE,Latin America & Caribbean,519.57
+BOL,Bolivia,Lower middle income,2000,EG.USE.PCAP.KG.OE,Latin America & Caribbean,570.85
+BOL,Bolivia,Lower middle income,2001,EG.USE.PCAP.KG.OE,Latin America & Caribbean,436.37
+BOL,Bolivia,Lower middle income,2002,EG.USE.PCAP.KG.OE,Latin America & Caribbean,514.05
+BOL,Bolivia,Lower middle income,2003,EG.USE.PCAP.KG.OE,Latin America & Caribbean,525.18
+BOL,Bolivia,Lower middle income,2004,EG.USE.PCAP.KG.OE,Latin America & Caribbean,516.76
+BOL,Bolivia,Lower middle income,2005,EG.USE.PCAP.KG.OE,Latin America & Caribbean,553.92
+BOL,Bolivia,Lower middle income,2006,EG.USE.PCAP.KG.OE,Latin America & Caribbean,681.28
+BOL,Bolivia,Lower middle income,2007,EG.USE.PCAP.KG.OE,Latin America & Caribbean,545.43
+BOL,Bolivia,Lower middle income,2008,EG.USE.PCAP.KG.OE,Latin America & Caribbean,570.15
+BOL,Bolivia,Lower middle income,2009,EG.USE.PCAP.KG.OE,Latin America & Caribbean,583.81
+BOL,Bolivia,Lower middle income,2010,EG.USE.PCAP.KG.OE,Latin America & Caribbean,625.27
+BOL,Bolivia,Lower middle income,2011,EG.USE.PCAP.KG.OE,Latin America & Caribbean,649.34
+BOL,Bolivia,Lower middle income,2012,EG.USE.PCAP.KG.OE,Latin America & Caribbean,734.28
+BOL,Bolivia,Lower middle income,2013,EG.USE.PCAP.KG.OE,Latin America & Caribbean,726.32
+BRA,Brazil,Upper middle income,1980,EG.USE.PCAP.KG.OE,Latin America & Caribbean,931.01
+BRA,Brazil,Upper middle income,1981,EG.USE.PCAP.KG.OE,Latin America & Caribbean,872.6
+BRA,Brazil,Upper middle income,1982,EG.USE.PCAP.KG.OE,Latin America & Caribbean,867.12
+BRA,Brazil,Upper middle income,1983,EG.USE.PCAP.KG.OE,Latin America & Caribbean,868.99
+BRA,Brazil,Upper middle income,1984,EG.USE.PCAP.KG.OE,Latin America & Caribbean,904.8
+BRA,Brazil,Upper middle income,1985,EG.USE.PCAP.KG.OE,Latin America & Caribbean,945.68
+BRA,Brazil,Upper middle income,1986,EG.USE.PCAP.KG.OE,Latin America & Caribbean,969.64
+BRA,Brazil,Upper middle income,1987,EG.USE.PCAP.KG.OE,Latin America & Caribbean,987.36
+BRA,Brazil,Upper middle income,1988,EG.USE.PCAP.KG.OE,Latin America & Caribbean,981.48
+BRA,Brazil,Upper middle income,1989,EG.USE.PCAP.KG.OE,Latin America & Caribbean,982.66
+BRA,Brazil,Upper middle income,1990,EG.USE.PCAP.KG.OE,Latin America & Caribbean,930.33
+BRA,Brazil,Upper middle income,1991,EG.USE.PCAP.KG.OE,Latin America & Caribbean,931.66
+BRA,Brazil,Upper middle income,1992,EG.USE.PCAP.KG.OE,Latin America & Caribbean,925.89
+BRA,Brazil,Upper middle income,1993,EG.USE.PCAP.KG.OE,Latin America & Caribbean,933.85
+BRA,Brazil,Upper middle income,1994,EG.USE.PCAP.KG.OE,Latin America & Caribbean,967.59
+BRA,Brazil,Upper middle income,1995,EG.USE.PCAP.KG.OE,Latin America & Caribbean,985.2
+BRA,Brazil,Upper middle income,1996,EG.USE.PCAP.KG.OE,Latin America & Caribbean,1021.84
+BRA,Brazil,Upper middle income,1997,EG.USE.PCAP.KG.OE,Latin America & Caribbean,1057.73
+BRA,Brazil,Upper middle income,1998,EG.USE.PCAP.KG.OE,Latin America & Caribbean,1067.31
+BRA,Brazil,Upper middle income,1999,EG.USE.PCAP.KG.OE,Latin America & Caribbean,1076.11
+BRA,Brazil,Upper middle income,2000,EG.USE.PCAP.KG.OE,Latin America & Caribbean,1065.77
+BRA,Brazil,Upper middle income,2001,EG.USE.PCAP.KG.OE,Latin America & Caribbean,1070.14
+BRA,Brazil,Upper middle income,2002,EG.USE.PCAP.KG.OE,Latin America & Caribbean,1084.68
+BRA,Brazil,Upper middle income,2003,EG.USE.PCAP.KG.OE,Latin America & Caribbean,1089.51
+BRA,Brazil,Upper middle income,2004,EG.USE.PCAP.KG.OE,Latin America & Caribbean,1137.07
+BRA,Brazil,Upper middle income,2005,EG.USE.PCAP.KG.OE,Latin America & Caribbean,1152.76
+BRA,Brazil,Upper middle income,2006,EG.USE.PCAP.KG.OE,Latin America & Caribbean,1180.05
+BRA,Brazil,Upper middle income,2007,EG.USE.PCAP.KG.OE,Latin America & Caribbean,1234.2
+BRA,Brazil,Upper middle income,2008,EG.USE.PCAP.KG.OE,Latin America & Caribbean,1290.17
+BRA,Brazil,Upper middle income,2009,EG.USE.PCAP.KG.OE,Latin America & Caribbean,1236.15
+BRA,Brazil,Upper middle income,2010,EG.USE.PCAP.KG.OE,Latin America & Caribbean,1354.08
+BRA,Brazil,Upper middle income,2011,EG.USE.PCAP.KG.OE,Latin America & Caribbean,1362.56
+BRA,Brazil,Upper middle income,2012,EG.USE.PCAP.KG.OE,Latin America & Caribbean,1408.85
+BRA,Brazil,Upper middle income,2013,EG.USE.PCAP.KG.OE,Latin America & Caribbean,1456.11
+BRB,Barbados,High income,1990,EG.USE.PCAP.KG.OE,Latin America & Caribbean,1243.83
+BRB,Barbados,High income,2004,EG.USE.PCAP.KG.OE,Latin America & Caribbean,1396.62
+BRB,Barbados,High income,2005,EG.USE.PCAP.KG.OE,Latin America & Caribbean,1447.25
+BRB,Barbados,High income,2006,EG.USE.PCAP.KG.OE,Latin America & Caribbean,1471.76
+BRB,Barbados,High income,2007,EG.USE.PCAP.KG.OE,Latin America & Caribbean,1477.28
+CHL,Chile,High income,1980,EG.USE.PCAP.KG.OE,Latin America & Caribbean,826.38
+CHL,Chile,High income,1981,EG.USE.PCAP.KG.OE,Latin America & Caribbean,827.41
+CHL,Chile,High income,1982,EG.USE.PCAP.KG.OE,Latin America & Caribbean,747.8
+CHL,Chile,High income,1983,EG.USE.PCAP.KG.OE,Latin America & Caribbean,762.27
+CHL,Chile,High income,1984,EG.USE.PCAP.KG.OE,Latin America & Caribbean,790.67
+CHL,Chile,High income,1985,EG.USE.PCAP.KG.OE,Latin America & Caribbean,777.41
+CHL,Chile,High income,1986,EG.USE.PCAP.KG.OE,Latin America & Caribbean,800.08
+CHL,Chile,High income,1987,EG.USE.PCAP.KG.OE,Latin America & Caribbean,812.92
+CHL,Chile,High income,1988,EG.USE.PCAP.KG.OE,Latin America & Caribbean,905.51
+CHL,Chile,High income,1989,EG.USE.PCAP.KG.OE,Latin America & Caribbean,998.77
+CHL,Chile,High income,1990,EG.USE.PCAP.KG.OE,Latin America & Caribbean,1049.95
+CHL,Chile,High income,1991,EG.USE.PCAP.KG.OE,Latin America & Caribbean,1056.27
+CHL,Chile,High income,1992,EG.USE.PCAP.KG.OE,Latin America & Caribbean,1123.97
+CHL,Chile,High income,1993,EG.USE.PCAP.KG.OE,Latin America & Caribbean,1134.13
+CHL,Chile,High income,1994,EG.USE.PCAP.KG.OE,Latin America & Caribbean,1201.16
+CHL,Chile,High income,1995,EG.USE.PCAP.KG.OE,Latin America & Caribbean,1272.25
+CHL,Chile,High income,1996,EG.USE.PCAP.KG.OE,Latin America & Caribbean,1390.03
+CHL,Chile,High income,1997,EG.USE.PCAP.KG.OE,Latin America & Caribbean,1536.13
+CHL,Chile,High income,1998,EG.USE.PCAP.KG.OE,Latin America & Caribbean,1570.73
+CHL,Chile,High income,1999,EG.USE.PCAP.KG.OE,Latin America & Caribbean,1649.13
+CHL,Chile,High income,2000,EG.USE.PCAP.KG.OE,Latin America & Caribbean,1639.4
+CHL,Chile,High income,2001,EG.USE.PCAP.KG.OE,Latin America & Caribbean,1590.92
+CHL,Chile,High income,2002,EG.USE.PCAP.KG.OE,Latin America & Caribbean,1629.15
+CHL,Chile,High income,2003,EG.USE.PCAP.KG.OE,Latin America & Caribbean,1628.93
+CHL,Chile,High income,2004,EG.USE.PCAP.KG.OE,Latin America & Caribbean,1717.54
+CHL,Chile,High income,2005,EG.USE.PCAP.KG.OE,Latin America & Caribbean,1753.53
+CHL,Chile,High income,2006,EG.USE.PCAP.KG.OE,Latin America & Caribbean,1807.42
+CHL,Chile,High income,2007,EG.USE.PCAP.KG.OE,Latin America & Caribbean,1856.4
+CHL,Chile,High income,2008,EG.USE.PCAP.KG.OE,Latin America & Caribbean,1820.31
+CHL,Chile,High income,2009,EG.USE.PCAP.KG.OE,Latin America & Caribbean,1753.81
+CHL,Chile,High income,2010,EG.USE.PCAP.KG.OE,Latin America & Caribbean,1814.12
+CHL,Chile,High income,2011,EG.USE.PCAP.KG.OE,Latin America & Caribbean,1957.05
+CHL,Chile,High income,2012,EG.USE.PCAP.KG.OE,Latin America & Caribbean,2145.52
+CHL,Chile,High income,2013,EG.USE.PCAP.KG.OE,Latin America & Caribbean,2209.86
+COL,Colombia,Upper middle income,1980,EG.USE.PCAP.KG.OE,Latin America & Caribbean,676.42
+COL,Colombia,Upper middle income,1981,EG.USE.PCAP.KG.OE,Latin America & Caribbean,669.56
+COL,Colombia,Upper middle income,1982,EG.USE.PCAP.KG.OE,Latin America & Caribbean,673.04
+COL,Colombia,Upper middle income,1983,EG.USE.PCAP.KG.OE,Latin America & Caribbean,679.25
+COL,Colombia,Upper middle income,1984,EG.USE.PCAP.KG.OE,Latin America & Caribbean,686.24
+COL,Colombia,Upper middle income,1985,EG.USE.PCAP.KG.OE,Latin America & Caribbean,681.63
+COL,Colombia,Upper middle income,1986,EG.USE.PCAP.KG.OE,Latin America & Caribbean,726.4
+COL,Colombia,Upper middle income,1987,EG.USE.PCAP.KG.OE,Latin America & Caribbean,735.22
+COL,Colombia,Upper middle income,1988,EG.USE.PCAP.KG.OE,Latin America & Caribbean,741.59
+COL,Colombia,Upper middle income,1989,EG.USE.PCAP.KG.OE,Latin America & Caribbean,732
+COL,Colombia,Upper middle income,1990,EG.USE.PCAP.KG.OE,Latin America & Caribbean,742.99
+COL,Colombia,Upper middle income,1991,EG.USE.PCAP.KG.OE,Latin America & Caribbean,735.94
+COL,Colombia,Upper middle income,1992,EG.USE.PCAP.KG.OE,Latin America & Caribbean,737.97
+COL,Colombia,Upper middle income,1993,EG.USE.PCAP.KG.OE,Latin America & Caribbean,756.89
+COL,Colombia,Upper middle income,1994,EG.USE.PCAP.KG.OE,Latin America & Caribbean,768.5
+COL,Colombia,Upper middle income,1995,EG.USE.PCAP.KG.OE,Latin America & Caribbean,767.27
+COL,Colombia,Upper middle income,1996,EG.USE.PCAP.KG.OE,Latin America & Caribbean,771.76
+COL,Colombia,Upper middle income,1997,EG.USE.PCAP.KG.OE,Latin America & Caribbean,735.58
+COL,Colombia,Upper middle income,1998,EG.USE.PCAP.KG.OE,Latin America & Caribbean,757.08
+COL,Colombia,Upper middle income,1999,EG.USE.PCAP.KG.OE,Latin America & Caribbean,665.81
+COL,Colombia,Upper middle income,2000,EG.USE.PCAP.KG.OE,Latin America & Caribbean,658.25
+COL,Colombia,Upper middle income,2001,EG.USE.PCAP.KG.OE,Latin America & Caribbean,645.3
+COL,Colombia,Upper middle income,2002,EG.USE.PCAP.KG.OE,Latin America & Caribbean,623.03
+COL,Colombia,Upper middle income,2003,EG.USE.PCAP.KG.OE,Latin America & Caribbean,626.77
+COL,Colombia,Upper middle income,2004,EG.USE.PCAP.KG.OE,Latin America & Caribbean,624.25
+COL,Colombia,Upper middle income,2005,EG.USE.PCAP.KG.OE,Latin America & Caribbean,641.48
+COL,Colombia,Upper middle income,2006,EG.USE.PCAP.KG.OE,Latin America & Caribbean,665.51
+COL,Colombia,Upper middle income,2007,EG.USE.PCAP.KG.OE,Latin America & Caribbean,653.23
+COL,Colombia,Upper middle income,2008,EG.USE.PCAP.KG.OE,Latin America & Caribbean,675.96
+COL,Colombia,Upper middle income,2009,EG.USE.PCAP.KG.OE,Latin America & Caribbean,692.86
+COL,Colombia,Upper middle income,2010,EG.USE.PCAP.KG.OE,Latin America & Caribbean,696.24
+COL,Colombia,Upper middle income,2011,EG.USE.PCAP.KG.OE,Latin America & Caribbean,689.75
+COL,Colombia,Upper middle income,2012,EG.USE.PCAP.KG.OE,Latin America & Caribbean,689.02
+COL,Colombia,Upper middle income,2013,EG.USE.PCAP.KG.OE,Latin America & Caribbean,727.85
+CRI,Costa Rica,Upper middle income,1980,EG.USE.PCAP.KG.OE,Latin America & Caribbean,520.53
+CRI,Costa Rica,Upper middle income,1981,EG.USE.PCAP.KG.OE,Latin America & Caribbean,475.57
+CRI,Costa Rica,Upper middle income,1982,EG.USE.PCAP.KG.OE,Latin America & Caribbean,451.08
+CRI,Costa Rica,Upper middle income,1983,EG.USE.PCAP.KG.OE,Latin America & Caribbean,431.61
+CRI,Costa Rica,Upper middle income,1984,EG.USE.PCAP.KG.OE,Latin America & Caribbean,455.42
+CRI,Costa Rica,Upper middle income,1985,EG.USE.PCAP.KG.OE,Latin America & Caribbean,456.04
+CRI,Costa Rica,Upper middle income,1986,EG.USE.PCAP.KG.OE,Latin America & Caribbean,465.25
+CRI,Costa Rica,Upper middle income,1987,EG.USE.PCAP.KG.OE,Latin America & Caribbean,482.77
+CRI,Costa Rica,Upper middle income,1988,EG.USE.PCAP.KG.OE,Latin America & Caribbean,481.9
+CRI,Costa Rica,Upper middle income,1989,EG.USE.PCAP.KG.OE,Latin America & Caribbean,522.96
+CRI,Costa Rica,Upper middle income,1990,EG.USE.PCAP.KG.OE,Latin America & Caribbean,531.13
+CRI,Costa Rica,Upper middle income,1991,EG.USE.PCAP.KG.OE,Latin America & Caribbean,549.45
+CRI,Costa Rica,Upper middle income,1992,EG.USE.PCAP.KG.OE,Latin America & Caribbean,691.79
+CRI,Costa Rica,Upper middle income,1993,EG.USE.PCAP.KG.OE,Latin America & Caribbean,688.6
+CRI,Costa Rica,Upper middle income,1994,EG.USE.PCAP.KG.OE,Latin America & Caribbean,662.15
+CRI,Costa Rica,Upper middle income,1995,EG.USE.PCAP.KG.OE,Latin America & Caribbean,659.85
+CRI,Costa Rica,Upper middle income,1996,EG.USE.PCAP.KG.OE,Latin America & Caribbean,647.54
+CRI,Costa Rica,Upper middle income,1997,EG.USE.PCAP.KG.OE,Latin America & Caribbean,641.18
+CRI,Costa Rica,Upper middle income,1998,EG.USE.PCAP.KG.OE,Latin America & Caribbean,623.81
+CRI,Costa Rica,Upper middle income,1999,EG.USE.PCAP.KG.OE,Latin America & Caribbean,673.79
+CRI,Costa Rica,Upper middle income,2000,EG.USE.PCAP.KG.OE,Latin America & Caribbean,722.15
+CRI,Costa Rica,Upper middle income,2001,EG.USE.PCAP.KG.OE,Latin America & Caribbean,713.2
+CRI,Costa Rica,Upper middle income,2002,EG.USE.PCAP.KG.OE,Latin America & Caribbean,737.69
+CRI,Costa Rica,Upper middle income,2003,EG.USE.PCAP.KG.OE,Latin America & Caribbean,779.29
+CRI,Costa Rica,Upper middle income,2004,EG.USE.PCAP.KG.OE,Latin America & Caribbean,909.28
+CRI,Costa Rica,Upper middle income,2005,EG.USE.PCAP.KG.OE,Latin America & Caribbean,895.7
+CRI,Costa Rica,Upper middle income,2006,EG.USE.PCAP.KG.OE,Latin America & Caribbean,955.35
+CRI,Costa Rica,Upper middle income,2007,EG.USE.PCAP.KG.OE,Latin America & Caribbean,1015.41
+CRI,Costa Rica,Upper middle income,2008,EG.USE.PCAP.KG.OE,Latin America & Caribbean,1018.64
+CRI,Costa Rica,Upper middle income,2009,EG.USE.PCAP.KG.OE,Latin America & Caribbean,999.51
+CRI,Costa Rica,Upper middle income,2010,EG.USE.PCAP.KG.OE,Latin America & Caribbean,1005.16
+CRI,Costa Rica,Upper middle income,2011,EG.USE.PCAP.KG.OE,Latin America & Caribbean,994.67
+CRI,Costa Rica,Upper middle income,2012,EG.USE.PCAP.KG.OE,Latin America & Caribbean,999.1
+CRI,Costa Rica,Upper middle income,2013,EG.USE.PCAP.KG.OE,Latin America & Caribbean,1010.73
+CUB,Cuba,Upper middle income,1980,EG.USE.PCAP.KG.OE,Latin America & Caribbean,1492.65
+CUB,Cuba,Upper middle income,1981,EG.USE.PCAP.KG.OE,Latin America & Caribbean,1495.25
+CUB,Cuba,Upper middle income,1982,EG.USE.PCAP.KG.OE,Latin America & Caribbean,1506.23
+CUB,Cuba,Upper middle income,1983,EG.USE.PCAP.KG.OE,Latin America & Caribbean,1575.22
+CUB,Cuba,Upper middle income,1984,EG.USE.PCAP.KG.OE,Latin America & Caribbean,1528.8
+CUB,Cuba,Upper middle income,1985,EG.USE.PCAP.KG.OE,Latin America & Caribbean,1506.94
+CUB,Cuba,Upper middle income,1986,EG.USE.PCAP.KG.OE,Latin America & Caribbean,1489.06
+CUB,Cuba,Upper middle income,1987,EG.USE.PCAP.KG.OE,Latin America & Caribbean,1538.6
+CUB,Cuba,Upper middle income,1988,EG.USE.PCAP.KG.OE,Latin America & Caribbean,1600.82
+CUB,Cuba,Upper middle income,1989,EG.USE.PCAP.KG.OE,Latin America & Caribbean,1739.65
+CUB,Cuba,Upper middle income,1990,EG.USE.PCAP.KG.OE,Latin America & Caribbean,1638.16
+CUB,Cuba,Upper middle income,1991,EG.USE.PCAP.KG.OE,Latin America & Caribbean,1344.49
+CUB,Cuba,Upper middle income,1992,EG.USE.PCAP.KG.OE,Latin America & Caribbean,1170.36
+CUB,Cuba,Upper middle income,1993,EG.USE.PCAP.KG.OE,Latin America & Caribbean,972.39
+CUB,Cuba,Upper middle income,1994,EG.USE.PCAP.KG.OE,Latin America & Caribbean,997.87
+CUB,Cuba,Upper middle income,1995,EG.USE.PCAP.KG.OE,Latin America & Caribbean,994.02
+CUB,Cuba,Upper middle income,1996,EG.USE.PCAP.KG.OE,Latin America & Caribbean,1081.82
+CUB,Cuba,Upper middle income,1997,EG.USE.PCAP.KG.OE,Latin America & Caribbean,1107.94
+CUB,Cuba,Upper middle income,1998,EG.USE.PCAP.KG.OE,Latin America & Caribbean,1035.25
+CUB,Cuba,Upper middle income,1999,EG.USE.PCAP.KG.OE,Latin America & Caribbean,1073.53
+CUB,Cuba,Upper middle income,2000,EG.USE.PCAP.KG.OE,Latin America & Caribbean,1146.91
+CUB,Cuba,Upper middle income,2001,EG.USE.PCAP.KG.OE,Latin America & Caribbean,1117.22
+CUB,Cuba,Upper middle income,2002,EG.USE.PCAP.KG.OE,Latin America & Caribbean,1038.16
+CUB,Cuba,Upper middle income,2003,EG.USE.PCAP.KG.OE,Latin America & Caribbean,1030.32
+CUB,Cuba,Upper middle income,2004,EG.USE.PCAP.KG.OE,Latin America & Caribbean,1004.68
+CUB,Cuba,Upper middle income,2005,EG.USE.PCAP.KG.OE,Latin America & Caribbean,948.74
+CUB,Cuba,Upper middle income,2006,EG.USE.PCAP.KG.OE,Latin America & Caribbean,946.03
+CUB,Cuba,Upper middle income,2007,EG.USE.PCAP.KG.OE,Latin America & Caribbean,899.83
+CUB,Cuba,Upper middle income,2008,EG.USE.PCAP.KG.OE,Latin America & Caribbean,954.84
+CUB,Cuba,Upper middle income,2009,EG.USE.PCAP.KG.OE,Latin America & Caribbean,1011.57
+CUB,Cuba,Upper middle income,2010,EG.USE.PCAP.KG.OE,Latin America & Caribbean,1093.21
+CUB,Cuba,Upper middle income,2011,EG.USE.PCAP.KG.OE,Latin America & Caribbean,1027.15
+CUB,Cuba,Upper middle income,2012,EG.USE.PCAP.KG.OE,Latin America & Caribbean,1060.43
+CUB,Cuba,Upper middle income,2013,EG.USE.PCAP.KG.OE,Latin America & Caribbean,1018.65
+CUW,Curaçao,High income,1980,EG.USE.PCAP.KG.OE,Latin America & Caribbean,26517.45
+CUW,Curaçao,High income,1981,EG.USE.PCAP.KG.OE,Latin America & Caribbean,25001.64
+CUW,Curaçao,High income,1982,EG.USE.PCAP.KG.OE,Latin America & Caribbean,27354.02
+CUW,Curaçao,High income,1983,EG.USE.PCAP.KG.OE,Latin America & Caribbean,28902.85
+CUW,Curaçao,High income,1984,EG.USE.PCAP.KG.OE,Latin America & Caribbean,19859.94
+CUW,Curaçao,High income,1985,EG.USE.PCAP.KG.OE,Latin America & Caribbean,11685.02
+CUW,Curaçao,High income,1986,EG.USE.PCAP.KG.OE,Latin America & Caribbean,11099.9
+CUW,Curaçao,High income,1987,EG.USE.PCAP.KG.OE,Latin America & Caribbean,9544.04
+CUW,Curaçao,High income,1988,EG.USE.PCAP.KG.OE,Latin America & Caribbean,8775.99
+CUW,Curaçao,High income,1989,EG.USE.PCAP.KG.OE,Latin America & Caribbean,9465.44
+CUW,Curaçao,High income,1990,EG.USE.PCAP.KG.OE,Latin America & Caribbean,10030.15
+CUW,Curaçao,High income,1991,EG.USE.PCAP.KG.OE,Latin America & Caribbean,10062.53
+CUW,Curaçao,High income,1992,EG.USE.PCAP.KG.OE,Latin America & Caribbean,10501.83
+CUW,Curaçao,High income,1993,EG.USE.PCAP.KG.OE,Latin America & Caribbean,8854.51
+CUW,Curaçao,High income,1994,EG.USE.PCAP.KG.OE,Latin America & Caribbean,8997.12
+CUW,Curaçao,High income,1995,EG.USE.PCAP.KG.OE,Latin America & Caribbean,9055.71
+CUW,Curaçao,High income,1996,EG.USE.PCAP.KG.OE,Latin America & Caribbean,9222.19
+CUW,Curaçao,High income,1997,EG.USE.PCAP.KG.OE,Latin America & Caribbean,16175.2
+CUW,Curaçao,High income,1998,EG.USE.PCAP.KG.OE,Latin America & Caribbean,18814.37
+CUW,Curaçao,High income,1999,EG.USE.PCAP.KG.OE,Latin America & Caribbean,14680.92
+CUW,Curaçao,High income,2000,EG.USE.PCAP.KG.OE,Latin America & Caribbean,15720.11
+CUW,Curaçao,High income,2001,EG.USE.PCAP.KG.OE,Latin America & Caribbean,16994.13
+CUW,Curaçao,High income,2002,EG.USE.PCAP.KG.OE,Latin America & Caribbean,16662.99
+CUW,Curaçao,High income,2003,EG.USE.PCAP.KG.OE,Latin America & Caribbean,15566.69
+CUW,Curaçao,High income,2004,EG.USE.PCAP.KG.OE,Latin America & Caribbean,16180.82
+CUW,Curaçao,High income,2005,EG.USE.PCAP.KG.OE,Latin America & Caribbean,15178.83
+CUW,Curaçao,High income,2006,EG.USE.PCAP.KG.OE,Latin America & Caribbean,14581.11
+CUW,Curaçao,High income,2007,EG.USE.PCAP.KG.OE,Latin America & Caribbean,16222.46
+CUW,Curaçao,High income,2008,EG.USE.PCAP.KG.OE,Latin America & Caribbean,15326.49
+CUW,Curaçao,High income,2009,EG.USE.PCAP.KG.OE,Latin America & Caribbean,15608.49
+CUW,Curaçao,High income,2010,EG.USE.PCAP.KG.OE,Latin America & Caribbean,13710.08
+CUW,Curaçao,High income,2011,EG.USE.PCAP.KG.OE,Latin America & Caribbean,16064.05
+CUW,Curaçao,High income,2012,EG.USE.PCAP.KG.OE,Latin America & Caribbean,13395.37
+CUW,Curaçao,High income,2013,EG.USE.PCAP.KG.OE,Latin America & Caribbean,11727.51
+DMA,Dominica,Upper middle income,1990,EG.USE.PCAP.KG.OE,Latin America & Caribbean,304.71
+DMA,Dominica,Upper middle income,2004,EG.USE.PCAP.KG.OE,Latin America & Caribbean,568.73
+DMA,Dominica,Upper middle income,2005,EG.USE.PCAP.KG.OE,Latin America & Caribbean,597.02
+DMA,Dominica,Upper middle income,2006,EG.USE.PCAP.KG.OE,Latin America & Caribbean,610.98
+DMA,Dominica,Upper middle income,2007,EG.USE.PCAP.KG.OE,Latin America & Caribbean,625.23
+DOM,Dominican Republic,Upper middle income,1980,EG.USE.PCAP.KG.OE,Latin America & Caribbean,596.73
+DOM,Dominican Republic,Upper middle income,1981,EG.USE.PCAP.KG.OE,Latin America & Caribbean,603.8
+DOM,Dominican Republic,Upper middle income,1982,EG.USE.PCAP.KG.OE,Latin America & Caribbean,603.27
+DOM,Dominican Republic,Upper middle income,1983,EG.USE.PCAP.KG.OE,Latin America & Caribbean,627.63
+DOM,Dominican Republic,Upper middle income,1984,EG.USE.PCAP.KG.OE,Latin America & Caribbean,646.84
+DOM,Dominican Republic,Upper middle income,1985,EG.USE.PCAP.KG.OE,Latin America & Caribbean,527.67
+DOM,Dominican Republic,Upper middle income,1986,EG.USE.PCAP.KG.OE,Latin America & Caribbean,536.32
+DOM,Dominican Republic,Upper middle income,1987,EG.USE.PCAP.KG.OE,Latin America & Caribbean,594.95
+DOM,Dominican Republic,Upper middle income,1988,EG.USE.PCAP.KG.OE,Latin America & Caribbean,557.77
+DOM,Dominican Republic,Upper middle income,1989,EG.USE.PCAP.KG.OE,Latin America & Caribbean,538.58
+DOM,Dominican Republic,Upper middle income,1990,EG.USE.PCAP.KG.OE,Latin America & Caribbean,563.17
+DOM,Dominican Republic,Upper middle income,1991,EG.USE.PCAP.KG.OE,Latin America & Caribbean,556.01
+DOM,Dominican Republic,Upper middle income,1992,EG.USE.PCAP.KG.OE,Latin America & Caribbean,604.23
+DOM,Dominican Republic,Upper middle income,1993,EG.USE.PCAP.KG.OE,Latin America & Caribbean,574.14
+DOM,Dominican Republic,Upper middle income,1994,EG.USE.PCAP.KG.OE,Latin America & Caribbean,646.84
+DOM,Dominican Republic,Upper middle income,1995,EG.USE.PCAP.KG.OE,Latin America & Caribbean,666.78
+DOM,Dominican Republic,Upper middle income,1996,EG.USE.PCAP.KG.OE,Latin America & Caribbean,683.57
+DOM,Dominican Republic,Upper middle income,1997,EG.USE.PCAP.KG.OE,Latin America & Caribbean,749.88
+DOM,Dominican Republic,Upper middle income,1998,EG.USE.PCAP.KG.OE,Latin America & Caribbean,779.87
+DOM,Dominican Republic,Upper middle income,1999,EG.USE.PCAP.KG.OE,Latin America & Caribbean,798.7
+DOM,Dominican Republic,Upper middle income,2000,EG.USE.PCAP.KG.OE,Latin America & Caribbean,845.32
+DOM,Dominican Republic,Upper middle income,2001,EG.USE.PCAP.KG.OE,Latin America & Caribbean,807.69
+DOM,Dominican Republic,Upper middle income,2002,EG.USE.PCAP.KG.OE,Latin America & Caribbean,844.83
+DOM,Dominican Republic,Upper middle income,2003,EG.USE.PCAP.KG.OE,Latin America & Caribbean,788.43
+DOM,Dominican Republic,Upper middle income,2004,EG.USE.PCAP.KG.OE,Latin America & Caribbean,703.36
+DOM,Dominican Republic,Upper middle income,2005,EG.USE.PCAP.KG.OE,Latin America & Caribbean,754.49
+DOM,Dominican Republic,Upper middle income,2006,EG.USE.PCAP.KG.OE,Latin America & Caribbean,771.09
+DOM,Dominican Republic,Upper middle income,2007,EG.USE.PCAP.KG.OE,Latin America & Caribbean,774.4
+DOM,Dominican Republic,Upper middle income,2008,EG.USE.PCAP.KG.OE,Latin America & Caribbean,766.72
+DOM,Dominican Republic,Upper middle income,2009,EG.USE.PCAP.KG.OE,Latin America & Caribbean,742.66
+DOM,Dominican Republic,Upper middle income,2010,EG.USE.PCAP.KG.OE,Latin America & Caribbean,770.28
+DOM,Dominican Republic,Upper middle income,2011,EG.USE.PCAP.KG.OE,Latin America & Caribbean,774.33
+DOM,Dominican Republic,Upper middle income,2012,EG.USE.PCAP.KG.OE,Latin America & Caribbean,807.26
+DOM,Dominican Republic,Upper middle income,2013,EG.USE.PCAP.KG.OE,Latin America & Caribbean,751.55
+ECU,Ecuador,Upper middle income,1980,EG.USE.PCAP.KG.OE,Latin America & Caribbean,614.1
+ECU,Ecuador,Upper middle income,1981,EG.USE.PCAP.KG.OE,Latin America & Caribbean,622.21
+ECU,Ecuador,Upper middle income,1982,EG.USE.PCAP.KG.OE,Latin America & Caribbean,652.66
+ECU,Ecuador,Upper middle income,1983,EG.USE.PCAP.KG.OE,Latin America & Caribbean,589.75
+ECU,Ecuador,Upper middle income,1984,EG.USE.PCAP.KG.OE,Latin America & Caribbean,615.59
+ECU,Ecuador,Upper middle income,1985,EG.USE.PCAP.KG.OE,Latin America & Caribbean,606.79
+ECU,Ecuador,Upper middle income,1986,EG.USE.PCAP.KG.OE,Latin America & Caribbean,589.22
+ECU,Ecuador,Upper middle income,1987,EG.USE.PCAP.KG.OE,Latin America & Caribbean,588.52
+ECU,Ecuador,Upper middle income,1988,EG.USE.PCAP.KG.OE,Latin America & Caribbean,601.48
+ECU,Ecuador,Upper middle income,1989,EG.USE.PCAP.KG.OE,Latin America & Caribbean,561.53
+ECU,Ecuador,Upper middle income,1990,EG.USE.PCAP.KG.OE,Latin America & Caribbean,605.75
+ECU,Ecuador,Upper middle income,1991,EG.USE.PCAP.KG.OE,Latin America & Caribbean,622.6
+ECU,Ecuador,Upper middle income,1992,EG.USE.PCAP.KG.OE,Latin America & Caribbean,617.2
+ECU,Ecuador,Upper middle income,1993,EG.USE.PCAP.KG.OE,Latin America & Caribbean,564.13
+ECU,Ecuador,Upper middle income,1994,EG.USE.PCAP.KG.OE,Latin America & Caribbean,592.29
+ECU,Ecuador,Upper middle income,1995,EG.USE.PCAP.KG.OE,Latin America & Caribbean,680.75
+ECU,Ecuador,Upper middle income,1996,EG.USE.PCAP.KG.OE,Latin America & Caribbean,704.01
+ECU,Ecuador,Upper middle income,1997,EG.USE.PCAP.KG.OE,Latin America & Caribbean,717.9
+ECU,Ecuador,Upper middle income,1998,EG.USE.PCAP.KG.OE,Latin America & Caribbean,724.85
+ECU,Ecuador,Upper middle income,1999,EG.USE.PCAP.KG.OE,Latin America & Caribbean,641.03
+ECU,Ecuador,Upper middle income,2000,EG.USE.PCAP.KG.OE,Latin America & Caribbean,698.19
+ECU,Ecuador,Upper middle income,2001,EG.USE.PCAP.KG.OE,Latin America & Caribbean,728.27
+ECU,Ecuador,Upper middle income,2002,EG.USE.PCAP.KG.OE,Latin America & Caribbean,698.47
+ECU,Ecuador,Upper middle income,2003,EG.USE.PCAP.KG.OE,Latin America & Caribbean,696.57
+ECU,Ecuador,Upper middle income,2004,EG.USE.PCAP.KG.OE,Latin America & Caribbean,661.12
+ECU,Ecuador,Upper middle income,2005,EG.USE.PCAP.KG.OE,Latin America & Caribbean,678.11
+ECU,Ecuador,Upper middle income,2006,EG.USE.PCAP.KG.OE,Latin America & Caribbean,669.5
+ECU,Ecuador,Upper middle income,2007,EG.USE.PCAP.KG.OE,Latin America & Caribbean,744.52
+ECU,Ecuador,Upper middle income,2008,EG.USE.PCAP.KG.OE,Latin America & Caribbean,674.29
+ECU,Ecuador,Upper middle income,2009,EG.USE.PCAP.KG.OE,Latin America & Caribbean,789.77
+ECU,Ecuador,Upper middle income,2010,EG.USE.PCAP.KG.OE,Latin America & Caribbean,785.18
+ECU,Ecuador,Upper middle income,2011,EG.USE.PCAP.KG.OE,Latin America & Caribbean,817.91
+ECU,Ecuador,Upper middle income,2012,EG.USE.PCAP.KG.OE,Latin America & Caribbean,794.64
+ECU,Ecuador,Upper middle income,2013,EG.USE.PCAP.KG.OE,Latin America & Caribbean,843.15
+GRD,Grenada,Upper middle income,1990,EG.USE.PCAP.KG.OE,Latin America & Caribbean,428.83
+GRD,Grenada,Upper middle income,2004,EG.USE.PCAP.KG.OE,Latin America & Caribbean,675.7
+GRD,Grenada,Upper middle income,2005,EG.USE.PCAP.KG.OE,Latin America & Caribbean,716.53
+GRD,Grenada,Upper middle income,2006,EG.USE.PCAP.KG.OE,Latin America & Caribbean,729.81
+GRD,Grenada,Upper middle income,2007,EG.USE.PCAP.KG.OE,Latin America & Caribbean,724.99
+GTM,Guatemala,Upper middle income,1980,EG.USE.PCAP.KG.OE,Latin America & Caribbean,550.39
+GTM,Guatemala,Upper middle income,1981,EG.USE.PCAP.KG.OE,Latin America & Caribbean,521.64
+GTM,Guatemala,Upper middle income,1982,EG.USE.PCAP.KG.OE,Latin America & Caribbean,499.03
+GTM,Guatemala,Upper middle income,1983,EG.USE.PCAP.KG.OE,Latin America & Caribbean,469.31
+GTM,Guatemala,Upper middle income,1984,EG.USE.PCAP.KG.OE,Latin America & Caribbean,482.47
+GTM,Guatemala,Upper middle income,1985,EG.USE.PCAP.KG.OE,Latin America & Caribbean,478.18
+GTM,Guatemala,Upper middle income,1986,EG.USE.PCAP.KG.OE,Latin America & Caribbean,446.59
+GTM,Guatemala,Upper middle income,1987,EG.USE.PCAP.KG.OE,Latin America & Caribbean,459
+GTM,Guatemala,Upper middle income,1988,EG.USE.PCAP.KG.OE,Latin America & Caribbean,464.4
+GTM,Guatemala,Upper middle income,1989,EG.USE.PCAP.KG.OE,Latin America & Caribbean,469.02
+GTM,Guatemala,Upper middle income,1990,EG.USE.PCAP.KG.OE,Latin America & Caribbean,487.41
+GTM,Guatemala,Upper middle income,1991,EG.USE.PCAP.KG.OE,Latin America & Caribbean,487.88
+GTM,Guatemala,Upper middle income,1992,EG.USE.PCAP.KG.OE,Latin America & Caribbean,501.26
+GTM,Guatemala,Upper middle income,1993,EG.USE.PCAP.KG.OE,Latin America & Caribbean,487.02
+GTM,Guatemala,Upper middle income,1994,EG.USE.PCAP.KG.OE,Latin America & Caribbean,500.59
+GTM,Guatemala,Upper middle income,1995,EG.USE.PCAP.KG.OE,Latin America & Caribbean,517.21
+GTM,Guatemala,Upper middle income,1996,EG.USE.PCAP.KG.OE,Latin America & Caribbean,518.99
+GTM,Guatemala,Upper middle income,1997,EG.USE.PCAP.KG.OE,Latin America & Caribbean,530.4
+GTM,Guatemala,Upper middle income,1998,EG.USE.PCAP.KG.OE,Latin America & Caribbean,563.33
+GTM,Guatemala,Upper middle income,1999,EG.USE.PCAP.KG.OE,Latin America & Caribbean,604.31
+GTM,Guatemala,Upper middle income,2000,EG.USE.PCAP.KG.OE,Latin America & Caribbean,607.5
+GTM,Guatemala,Upper middle income,2001,EG.USE.PCAP.KG.OE,Latin America & Caribbean,605.51
+GTM,Guatemala,Upper middle income,2002,EG.USE.PCAP.KG.OE,Latin America & Caribbean,596.54
+GTM,Guatemala,Upper middle income,2003,EG.USE.PCAP.KG.OE,Latin America & Caribbean,606.75
+GTM,Guatemala,Upper middle income,2004,EG.USE.PCAP.KG.OE,Latin America & Caribbean,611.74
+GTM,Guatemala,Upper middle income,2005,EG.USE.PCAP.KG.OE,Latin America & Caribbean,602.39
+GTM,Guatemala,Upper middle income,2006,EG.USE.PCAP.KG.OE,Latin America & Caribbean,599.53
+GTM,Guatemala,Upper middle income,2007,EG.USE.PCAP.KG.OE,Latin America & Caribbean,631.57
+GTM,Guatemala,Upper middle income,2008,EG.USE.PCAP.KG.OE,Latin America & Caribbean,593.72
+GTM,Guatemala,Upper middle income,2009,EG.USE.PCAP.KG.OE,Latin America & Caribbean,668.8
+GTM,Guatemala,Upper middle income,2010,EG.USE.PCAP.KG.OE,Latin America & Caribbean,714.91
+GTM,Guatemala,Upper middle income,2011,EG.USE.PCAP.KG.OE,Latin America & Caribbean,750.61
+GTM,Guatemala,Upper middle income,2012,EG.USE.PCAP.KG.OE,Latin America & Caribbean,749.04
+GTM,Guatemala,Upper middle income,2013,EG.USE.PCAP.KG.OE,Latin America & Caribbean,800.65
+GUY,Guyana,High income,1990,EG.USE.PCAP.KG.OE,Latin America & Caribbean,511.41
+GUY,Guyana,High income,2004,EG.USE.PCAP.KG.OE,Latin America & Caribbean,629.91
+GUY,Guyana,High income,2005,EG.USE.PCAP.KG.OE,Latin America & Caribbean,651.57
+GUY,Guyana,High income,2006,EG.USE.PCAP.KG.OE,Latin America & Caribbean,659.31
+GUY,Guyana,High income,2007,EG.USE.PCAP.KG.OE,Latin America & Caribbean,660.92
+HND,Honduras,Lower middle income,1980,EG.USE.PCAP.KG.OE,Latin America & Caribbean,495.11
+HND,Honduras,Lower middle income,1981,EG.USE.PCAP.KG.OE,Latin America & Caribbean,477.37
+HND,Honduras,Lower middle income,1982,EG.USE.PCAP.KG.OE,Latin America & Caribbean,501.3
+HND,Honduras,Lower middle income,1983,EG.USE.PCAP.KG.OE,Latin America & Caribbean,477.05
+HND,Honduras,Lower middle income,1984,EG.USE.PCAP.KG.OE,Latin America & Caribbean,473.64
+HND,Honduras,Lower middle income,1985,EG.USE.PCAP.KG.OE,Latin America & Caribbean,456.09
+HND,Honduras,Lower middle income,1986,EG.USE.PCAP.KG.OE,Latin America & Caribbean,454.75
+HND,Honduras,Lower middle income,1987,EG.USE.PCAP.KG.OE,Latin America & Caribbean,466
+HND,Honduras,Lower middle income,1988,EG.USE.PCAP.KG.OE,Latin America & Caribbean,474.69
+HND,Honduras,Lower middle income,1989,EG.USE.PCAP.KG.OE,Latin America & Caribbean,480.69
+HND,Honduras,Lower middle income,1990,EG.USE.PCAP.KG.OE,Latin America & Caribbean,470.9
+HND,Honduras,Lower middle income,1991,EG.USE.PCAP.KG.OE,Latin America & Caribbean,461.89
+HND,Honduras,Lower middle income,1992,EG.USE.PCAP.KG.OE,Latin America & Caribbean,468.39
+HND,Honduras,Lower middle income,1993,EG.USE.PCAP.KG.OE,Latin America & Caribbean,465.48
+HND,Honduras,Lower middle income,1994,EG.USE.PCAP.KG.OE,Latin America & Caribbean,469.87
+HND,Honduras,Lower middle income,1995,EG.USE.PCAP.KG.OE,Latin America & Caribbean,485.82
+HND,Honduras,Lower middle income,1996,EG.USE.PCAP.KG.OE,Latin America & Caribbean,474.42
+HND,Honduras,Lower middle income,1997,EG.USE.PCAP.KG.OE,Latin America & Caribbean,504.1
+HND,Honduras,Lower middle income,1998,EG.USE.PCAP.KG.OE,Latin America & Caribbean,527.12
+HND,Honduras,Lower middle income,1999,EG.USE.PCAP.KG.OE,Latin America & Caribbean,451.36
+HND,Honduras,Lower middle income,2000,EG.USE.PCAP.KG.OE,Latin America & Caribbean,449.31
+HND,Honduras,Lower middle income,2001,EG.USE.PCAP.KG.OE,Latin America & Caribbean,471.73
+HND,Honduras,Lower middle income,2002,EG.USE.PCAP.KG.OE,Latin America & Caribbean,478.08
+HND,Honduras,Lower middle income,2003,EG.USE.PCAP.KG.OE,Latin America & Caribbean,506.56
+HND,Honduras,Lower middle income,2004,EG.USE.PCAP.KG.OE,Latin America & Caribbean,532.57
+HND,Honduras,Lower middle income,2005,EG.USE.PCAP.KG.OE,Latin America & Caribbean,543.32
+HND,Honduras,Lower middle income,2006,EG.USE.PCAP.KG.OE,Latin America & Caribbean,515.62
+HND,Honduras,Lower middle income,2007,EG.USE.PCAP.KG.OE,Latin America & Caribbean,591.8
+HND,Honduras,Lower middle income,2008,EG.USE.PCAP.KG.OE,Latin America & Caribbean,574.12
+HND,Honduras,Lower middle income,2009,EG.USE.PCAP.KG.OE,Latin America & Caribbean,538.44
+HND,Honduras,Lower middle income,2010,EG.USE.PCAP.KG.OE,Latin America & Caribbean,540.07
+HND,Honduras,Lower middle income,2011,EG.USE.PCAP.KG.OE,Latin America & Caribbean,586.86
+HND,Honduras,Lower middle income,2012,EG.USE.PCAP.KG.OE,Latin America & Caribbean,582.84
+HND,Honduras,Lower middle income,2013,EG.USE.PCAP.KG.OE,Latin America & Caribbean,580.26
+HTI,Haiti,Lower middle income,1980,EG.USE.PCAP.KG.OE,Latin America & Caribbean,368.88
+HTI,Haiti,Lower middle income,1981,EG.USE.PCAP.KG.OE,Latin America & Caribbean,301.03
+HTI,Haiti,Lower middle income,1982,EG.USE.PCAP.KG.OE,Latin America & Caribbean,305.83
+HTI,Haiti,Lower middle income,1983,EG.USE.PCAP.KG.OE,Latin America & Caribbean,308.42
+HTI,Haiti,Lower middle income,1984,EG.USE.PCAP.KG.OE,Latin America & Caribbean,305.13
+HTI,Haiti,Lower middle income,1985,EG.USE.PCAP.KG.OE,Latin America & Caribbean,301.31
+HTI,Haiti,Lower middle income,1986,EG.USE.PCAP.KG.OE,Latin America & Caribbean,229.66
+HTI,Haiti,Lower middle income,1987,EG.USE.PCAP.KG.OE,Latin America & Caribbean,231.97
+HTI,Haiti,Lower middle income,1988,EG.USE.PCAP.KG.OE,Latin America & Caribbean,235.07
+HTI,Haiti,Lower middle income,1989,EG.USE.PCAP.KG.OE,Latin America & Caribbean,234.66
+HTI,Haiti,Lower middle income,1990,EG.USE.PCAP.KG.OE,Latin America & Caribbean,225.33
+HTI,Haiti,Lower middle income,1991,EG.USE.PCAP.KG.OE,Latin America & Caribbean,220.55
+HTI,Haiti,Lower middle income,1992,EG.USE.PCAP.KG.OE,Latin America & Caribbean,224.58
+HTI,Haiti,Lower middle income,1993,EG.USE.PCAP.KG.OE,Latin America & Caribbean,212.88
+HTI,Haiti,Lower middle income,1994,EG.USE.PCAP.KG.OE,Latin America & Caribbean,191.88
+HTI,Haiti,Lower middle income,1995,EG.USE.PCAP.KG.OE,Latin America & Caribbean,221.99
+HTI,Haiti,Lower middle income,1996,EG.USE.PCAP.KG.OE,Latin America & Caribbean,250.12
+HTI,Haiti,Lower middle income,1997,EG.USE.PCAP.KG.OE,Latin America & Caribbean,258.74
+HTI,Haiti,Lower middle income,1998,EG.USE.PCAP.KG.OE,Latin America & Caribbean,254.25
+HTI,Haiti,Lower middle income,1999,EG.USE.PCAP.KG.OE,Latin America & Caribbean,252.99
+HTI,Haiti,Lower middle income,2000,EG.USE.PCAP.KG.OE,Latin America & Caribbean,240.46
+HTI,Haiti,Lower middle income,2001,EG.USE.PCAP.KG.OE,Latin America & Caribbean,241.31
+HTI,Haiti,Lower middle income,2002,EG.USE.PCAP.KG.OE,Latin America & Caribbean,266.6
+HTI,Haiti,Lower middle income,2003,EG.USE.PCAP.KG.OE,Latin America & Caribbean,251.69
+HTI,Haiti,Lower middle income,2004,EG.USE.PCAP.KG.OE,Latin America & Caribbean,255.29
+HTI,Haiti,Lower middle income,2005,EG.USE.PCAP.KG.OE,Latin America & Caribbean,373.81
+HTI,Haiti,Lower middle income,2006,EG.USE.PCAP.KG.OE,Latin America & Caribbean,378.48
+HTI,Haiti,Lower middle income,2007,EG.USE.PCAP.KG.OE,Latin America & Caribbean,390.07
+HTI,Haiti,Lower middle income,2008,EG.USE.PCAP.KG.OE,Latin America & Caribbean,388.72
+HTI,Haiti,Lower middle income,2009,EG.USE.PCAP.KG.OE,Latin America & Caribbean,388.05
+HTI,Haiti,Lower middle income,2010,EG.USE.PCAP.KG.OE,Latin America & Caribbean,385.72
+HTI,Haiti,Lower middle income,2011,EG.USE.PCAP.KG.OE,Latin America & Caribbean,394.79
+HTI,Haiti,Lower middle income,2012,EG.USE.PCAP.KG.OE,Latin America & Caribbean,402.85
+HTI,Haiti,Lower middle income,2013,EG.USE.PCAP.KG.OE,Latin America & Caribbean,399.38
+JAM,Jamaica,Upper middle income,1980,EG.USE.PCAP.KG.OE,Latin America & Caribbean,1066.92
+JAM,Jamaica,Upper middle income,1981,EG.USE.PCAP.KG.OE,Latin America & Caribbean,1071.72
+JAM,Jamaica,Upper middle income,1982,EG.USE.PCAP.KG.OE,Latin America & Caribbean,1040.55
+JAM,Jamaica,Upper middle income,1983,EG.USE.PCAP.KG.OE,Latin America & Caribbean,896.45
+JAM,Jamaica,Upper middle income,1984,EG.USE.PCAP.KG.OE,Latin America & Caribbean,886.09
+JAM,Jamaica,Upper middle income,1985,EG.USE.PCAP.KG.OE,Latin America & Caribbean,752.37
+JAM,Jamaica,Upper middle income,1986,EG.USE.PCAP.KG.OE,Latin America & Caribbean,756.62
+JAM,Jamaica,Upper middle income,1987,EG.USE.PCAP.KG.OE,Latin America & Caribbean,770.17
+JAM,Jamaica,Upper middle income,1988,EG.USE.PCAP.KG.OE,Latin America & Caribbean,779.04
+JAM,Jamaica,Upper middle income,1989,EG.USE.PCAP.KG.OE,Latin America & Caribbean,969.41
+JAM,Jamaica,Upper middle income,1990,EG.USE.PCAP.KG.OE,Latin America & Caribbean,1164.13
+JAM,Jamaica,Upper middle income,1991,EG.USE.PCAP.KG.OE,Latin America & Caribbean,1158.89
+JAM,Jamaica,Upper middle income,1992,EG.USE.PCAP.KG.OE,Latin America & Caribbean,1208.48
+JAM,Jamaica,Upper middle income,1993,EG.USE.PCAP.KG.OE,Latin America & Caribbean,1200.02
+JAM,Jamaica,Upper middle income,1994,EG.USE.PCAP.KG.OE,Latin America & Caribbean,1211.08
+JAM,Jamaica,Upper middle income,1995,EG.USE.PCAP.KG.OE,Latin America & Caribbean,1276.08
+JAM,Jamaica,Upper middle income,1996,EG.USE.PCAP.KG.OE,Latin America & Caribbean,1332.36
+JAM,Jamaica,Upper middle income,1997,EG.USE.PCAP.KG.OE,Latin America & Caribbean,1320.76
+JAM,Jamaica,Upper middle income,1998,EG.USE.PCAP.KG.OE,Latin America & Caribbean,1361.13
+JAM,Jamaica,Upper middle income,1999,EG.USE.PCAP.KG.OE,Latin America & Caribbean,1388.51
+JAM,Jamaica,Upper middle income,2000,EG.USE.PCAP.KG.OE,Latin America & Caribbean,1459.8
+JAM,Jamaica,Upper middle income,2001,EG.USE.PCAP.KG.OE,Latin America & Caribbean,1457
+JAM,Jamaica,Upper middle income,2002,EG.USE.PCAP.KG.OE,Latin America & Caribbean,1352.08
+JAM,Jamaica,Upper middle income,2003,EG.USE.PCAP.KG.OE,Latin America & Caribbean,1401.8
+JAM,Jamaica,Upper middle income,2004,EG.USE.PCAP.KG.OE,Latin America & Caribbean,1411
+JAM,Jamaica,Upper middle income,2005,EG.USE.PCAP.KG.OE,Latin America & Caribbean,1387.25
+JAM,Jamaica,Upper middle income,2006,EG.USE.PCAP.KG.OE,Latin America & Caribbean,1546.97
+JAM,Jamaica,Upper middle income,2007,EG.USE.PCAP.KG.OE,Latin America & Caribbean,1549.08
+JAM,Jamaica,Upper middle income,2008,EG.USE.PCAP.KG.OE,Latin America & Caribbean,1298.53
+JAM,Jamaica,Upper middle income,2009,EG.USE.PCAP.KG.OE,Latin America & Caribbean,1109.29
+JAM,Jamaica,Upper middle income,2010,EG.USE.PCAP.KG.OE,Latin America & Caribbean,978.06
+JAM,Jamaica,Upper middle income,2011,EG.USE.PCAP.KG.OE,Latin America & Caribbean,1038.66
+JAM,Jamaica,Upper middle income,2012,EG.USE.PCAP.KG.OE,Latin America & Caribbean,1003.53
+JAM,Jamaica,Upper middle income,2013,EG.USE.PCAP.KG.OE,Latin America & Caribbean,1037.77
+KNA,St. Kitts and Nevis,High income,1990,EG.USE.PCAP.KG.OE,Latin America & Caribbean,531.57
+KNA,St. Kitts and Nevis,High income,2004,EG.USE.PCAP.KG.OE,Latin America & Caribbean,1631.6
+KNA,St. Kitts and Nevis,High income,2005,EG.USE.PCAP.KG.OE,Latin America & Caribbean,1690.74
+KNA,St. Kitts and Nevis,High income,2006,EG.USE.PCAP.KG.OE,Latin America & Caribbean,1685.37
+KNA,St. Kitts and Nevis,High income,2007,EG.USE.PCAP.KG.OE,Latin America & Caribbean,1765.39
+LCA,St. Lucia,Upper middle income,1990,EG.USE.PCAP.KG.OE,Latin America & Caribbean,392.97
+LCA,St. Lucia,Upper middle income,2004,EG.USE.PCAP.KG.OE,Latin America & Caribbean,730.64
+LCA,St. Lucia,Upper middle income,2005,EG.USE.PCAP.KG.OE,Latin America & Caribbean,743.71
+LCA,St. Lucia,Upper middle income,2006,EG.USE.PCAP.KG.OE,Latin America & Caribbean,714.84
+LCA,St. Lucia,Upper middle income,2007,EG.USE.PCAP.KG.OE,Latin America & Caribbean,764.1
+MEX,Mexico,Upper middle income,1980,EG.USE.PCAP.KG.OE,Latin America & Caribbean,1404.83
+MEX,Mexico,Upper middle income,1981,EG.USE.PCAP.KG.OE,Latin America & Caribbean,1466.89
+MEX,Mexico,Upper middle income,1982,EG.USE.PCAP.KG.OE,Latin America & Caribbean,1504.26
+MEX,Mexico,Upper middle income,1983,EG.USE.PCAP.KG.OE,Latin America & Caribbean,1388.34
+MEX,Mexico,Upper middle income,1984,EG.USE.PCAP.KG.OE,Latin America & Caribbean,1422.79
+MEX,Mexico,Upper middle income,1985,EG.USE.PCAP.KG.OE,Latin America & Caribbean,1450.67
+MEX,Mexico,Upper middle income,1986,EG.USE.PCAP.KG.OE,Latin America & Caribbean,1386.28
+MEX,Mexico,Upper middle income,1987,EG.USE.PCAP.KG.OE,Latin America & Caribbean,1433
+MEX,Mexico,Upper middle income,1988,EG.USE.PCAP.KG.OE,Latin America & Caribbean,1425.89
+MEX,Mexico,Upper middle income,1989,EG.USE.PCAP.KG.OE,Latin America & Caribbean,1464.64
+MEX,Mexico,Upper middle income,1990,EG.USE.PCAP.KG.OE,Latin America & Caribbean,1513.46
+MEX,Mexico,Upper middle income,1991,EG.USE.PCAP.KG.OE,Latin America & Caribbean,1557.86
+MEX,Mexico,Upper middle income,1992,EG.USE.PCAP.KG.OE,Latin America & Caribbean,1540.51
+MEX,Mexico,Upper middle income,1993,EG.USE.PCAP.KG.OE,Latin America & Caribbean,1536.49
+MEX,Mexico,Upper middle income,1994,EG.USE.PCAP.KG.OE,Latin America & Caribbean,1541.43
+MEX,Mexico,Upper middle income,1995,EG.USE.PCAP.KG.OE,Latin America & Caribbean,1464.71
+MEX,Mexico,Upper middle income,1996,EG.USE.PCAP.KG.OE,Latin America & Caribbean,1470.57
+MEX,Mexico,Upper middle income,1997,EG.USE.PCAP.KG.OE,Latin America & Caribbean,1520.96
+MEX,Mexico,Upper middle income,1998,EG.USE.PCAP.KG.OE,Latin America & Caribbean,1537.24
+MEX,Mexico,Upper middle income,1999,EG.USE.PCAP.KG.OE,Latin America & Caribbean,1555.88
+MEX,Mexico,Upper middle income,2000,EG.USE.PCAP.KG.OE,Latin America & Caribbean,1532.54
+MEX,Mexico,Upper middle income,2001,EG.USE.PCAP.KG.OE,Latin America & Caribbean,1562.4
+MEX,Mexico,Upper middle income,2002,EG.USE.PCAP.KG.OE,Latin America & Caribbean,1546.4
+MEX,Mexico,Upper middle income,2003,EG.USE.PCAP.KG.OE,Latin America & Caribbean,1614.14
+MEX,Mexico,Upper middle income,2004,EG.USE.PCAP.KG.OE,Latin America & Caribbean,1607.92
+MEX,Mexico,Upper middle income,2005,EG.USE.PCAP.KG.OE,Latin America & Caribbean,1694.09
+MEX,Mexico,Upper middle income,2006,EG.USE.PCAP.KG.OE,Latin America & Caribbean,1709.29
+MEX,Mexico,Upper middle income,2007,EG.USE.PCAP.KG.OE,Latin America & Caribbean,1675.92
+MEX,Mexico,Upper middle income,2008,EG.USE.PCAP.KG.OE,Latin America & Caribbean,1637.98
+MEX,Mexico,Upper middle income,2009,EG.USE.PCAP.KG.OE,Latin America & Caribbean,1619.89
+MEX,Mexico,Upper middle income,2010,EG.USE.PCAP.KG.OE,Latin America & Caribbean,1553
+MEX,Mexico,Upper middle income,2011,EG.USE.PCAP.KG.OE,Latin America & Caribbean,1608.55
+MEX,Mexico,Upper middle income,2012,EG.USE.PCAP.KG.OE,Latin America & Caribbean,1656.14
+MEX,Mexico,Upper middle income,2013,EG.USE.PCAP.KG.OE,Latin America & Caribbean,1637.79
+NIC,Nicaragua,Lower middle income,1980,EG.USE.PCAP.KG.OE,Latin America & Caribbean,464.61
+NIC,Nicaragua,Lower middle income,1981,EG.USE.PCAP.KG.OE,Latin America & Caribbean,463.91
+NIC,Nicaragua,Lower middle income,1982,EG.USE.PCAP.KG.OE,Latin America & Caribbean,461.69
+NIC,Nicaragua,Lower middle income,1983,EG.USE.PCAP.KG.OE,Latin America & Caribbean,468.83
+NIC,Nicaragua,Lower middle income,1984,EG.USE.PCAP.KG.OE,Latin America & Caribbean,502.87
+NIC,Nicaragua,Lower middle income,1985,EG.USE.PCAP.KG.OE,Latin America & Caribbean,513.24
+NIC,Nicaragua,Lower middle income,1986,EG.USE.PCAP.KG.OE,Latin America & Caribbean,501.38
+NIC,Nicaragua,Lower middle income,1987,EG.USE.PCAP.KG.OE,Latin America & Caribbean,494.92
+NIC,Nicaragua,Lower middle income,1988,EG.USE.PCAP.KG.OE,Latin America & Caribbean,457.34
+NIC,Nicaragua,Lower middle income,1989,EG.USE.PCAP.KG.OE,Latin America & Caribbean,478.91
+NIC,Nicaragua,Lower middle income,1990,EG.USE.PCAP.KG.OE,Latin America & Caribbean,477.57
+NIC,Nicaragua,Lower middle income,1991,EG.USE.PCAP.KG.OE,Latin America & Caribbean,495.14
+NIC,Nicaragua,Lower middle income,1992,EG.USE.PCAP.KG.OE,Latin America & Caribbean,498.8
+NIC,Nicaragua,Lower middle income,1993,EG.USE.PCAP.KG.OE,Latin America & Caribbean,480.03
+NIC,Nicaragua,Lower middle income,1994,EG.USE.PCAP.KG.OE,Latin America & Caribbean,474.8
+NIC,Nicaragua,Lower middle income,1995,EG.USE.PCAP.KG.OE,Latin America & Caribbean,478.42
+NIC,Nicaragua,Lower middle income,1996,EG.USE.PCAP.KG.OE,Latin America & Caribbean,478.06
+NIC,Nicaragua,Lower middle income,1997,EG.USE.PCAP.KG.OE,Latin America & Caribbean,491.81
+NIC,Nicaragua,Lower middle income,1998,EG.USE.PCAP.KG.OE,Latin America & Caribbean,486.73
+NIC,Nicaragua,Lower middle income,1999,EG.USE.PCAP.KG.OE,Latin America & Caribbean,486.34
+NIC,Nicaragua,Lower middle income,2000,EG.USE.PCAP.KG.OE,Latin America & Caribbean,491.22
+NIC,Nicaragua,Lower middle income,2001,EG.USE.PCAP.KG.OE,Latin America & Caribbean,488.87
+NIC,Nicaragua,Lower middle income,2002,EG.USE.PCAP.KG.OE,Latin America & Caribbean,500.3
+NIC,Nicaragua,Lower middle income,2003,EG.USE.PCAP.KG.OE,Latin America & Caribbean,505.87
+NIC,Nicaragua,Lower middle income,2004,EG.USE.PCAP.KG.OE,Latin America & Caribbean,522.77
+NIC,Nicaragua,Lower middle income,2005,EG.USE.PCAP.KG.OE,Latin America & Caribbean,524.58
+NIC,Nicaragua,Lower middle income,2006,EG.USE.PCAP.KG.OE,Latin America & Caribbean,512.63
+NIC,Nicaragua,Lower middle income,2007,EG.USE.PCAP.KG.OE,Latin America & Caribbean,513.93
+NIC,Nicaragua,Lower middle income,2008,EG.USE.PCAP.KG.OE,Latin America & Caribbean,512.33
+NIC,Nicaragua,Lower middle income,2009,EG.USE.PCAP.KG.OE,Latin America & Caribbean,507.94
+NIC,Nicaragua,Lower middle income,2010,EG.USE.PCAP.KG.OE,Latin America & Caribbean,504.83
+NIC,Nicaragua,Lower middle income,2011,EG.USE.PCAP.KG.OE,Latin America & Caribbean,514.67
+NIC,Nicaragua,Lower middle income,2012,EG.USE.PCAP.KG.OE,Latin America & Caribbean,545.04
+NIC,Nicaragua,Lower middle income,2013,EG.USE.PCAP.KG.OE,Latin America & Caribbean,575.09
+PAN,Panama,High income,1980,EG.USE.PCAP.KG.OE,Latin America & Caribbean,721.73
+PAN,Panama,High income,1981,EG.USE.PCAP.KG.OE,Latin America & Caribbean,752.91
+PAN,Panama,High income,1982,EG.USE.PCAP.KG.OE,Latin America & Caribbean,805.63
+PAN,Panama,High income,1983,EG.USE.PCAP.KG.OE,Latin America & Caribbean,840.23
+PAN,Panama,High income,1984,EG.USE.PCAP.KG.OE,Latin America & Caribbean,752.21
+PAN,Panama,High income,1985,EG.USE.PCAP.KG.OE,Latin America & Caribbean,709.96
+PAN,Panama,High income,1986,EG.USE.PCAP.KG.OE,Latin America & Caribbean,705.5
+PAN,Panama,High income,1987,EG.USE.PCAP.KG.OE,Latin America & Caribbean,737.55
+PAN,Panama,High income,1988,EG.USE.PCAP.KG.OE,Latin America & Caribbean,672.15
+PAN,Panama,High income,1989,EG.USE.PCAP.KG.OE,Latin America & Caribbean,619.58
+PAN,Panama,High income,1990,EG.USE.PCAP.KG.OE,Latin America & Caribbean,608.53
+PAN,Panama,High income,1991,EG.USE.PCAP.KG.OE,Latin America & Caribbean,645.95
+PAN,Panama,High income,1992,EG.USE.PCAP.KG.OE,Latin America & Caribbean,721.25
+PAN,Panama,High income,1993,EG.USE.PCAP.KG.OE,Latin America & Caribbean,716.75
+PAN,Panama,High income,1994,EG.USE.PCAP.KG.OE,Latin America & Caribbean,739.49
+PAN,Panama,High income,1995,EG.USE.PCAP.KG.OE,Latin America & Caribbean,735.21
+PAN,Panama,High income,1996,EG.USE.PCAP.KG.OE,Latin America & Caribbean,770.12
+PAN,Panama,High income,1997,EG.USE.PCAP.KG.OE,Latin America & Caribbean,784.55
+PAN,Panama,High income,1998,EG.USE.PCAP.KG.OE,Latin America & Caribbean,891.8
+PAN,Panama,High income,1999,EG.USE.PCAP.KG.OE,Latin America & Caribbean,861.72
+PAN,Panama,High income,2000,EG.USE.PCAP.KG.OE,Latin America & Caribbean,855.84
+PAN,Panama,High income,2001,EG.USE.PCAP.KG.OE,Latin America & Caribbean,951.46
+PAN,Panama,High income,2002,EG.USE.PCAP.KG.OE,Latin America & Caribbean,847.91
+PAN,Panama,High income,2003,EG.USE.PCAP.KG.OE,Latin America & Caribbean,832.7
+PAN,Panama,High income,2004,EG.USE.PCAP.KG.OE,Latin America & Caribbean,805.74
+PAN,Panama,High income,2005,EG.USE.PCAP.KG.OE,Latin America & Caribbean,881.57
+PAN,Panama,High income,2006,EG.USE.PCAP.KG.OE,Latin America & Caribbean,924.39
+PAN,Panama,High income,2007,EG.USE.PCAP.KG.OE,Latin America & Caribbean,888.19
+PAN,Panama,High income,2008,EG.USE.PCAP.KG.OE,Latin America & Caribbean,874.22
+PAN,Panama,High income,2009,EG.USE.PCAP.KG.OE,Latin America & Caribbean,947.47
+PAN,Panama,High income,2010,EG.USE.PCAP.KG.OE,Latin America & Caribbean,995.89
+PAN,Panama,High income,2011,EG.USE.PCAP.KG.OE,Latin America & Caribbean,1061.57
+PAN,Panama,High income,2012,EG.USE.PCAP.KG.OE,Latin America & Caribbean,1076.72
+PAN,Panama,High income,2013,EG.USE.PCAP.KG.OE,Latin America & Caribbean,1039.34
+PER,Peru,Upper middle income,1980,EG.USE.PCAP.KG.OE,Latin America & Caribbean,643.58
+PER,Peru,Upper middle income,1981,EG.USE.PCAP.KG.OE,Latin America & Caribbean,631.68
+PER,Peru,Upper middle income,1982,EG.USE.PCAP.KG.OE,Latin America & Caribbean,627.61
+PER,Peru,Upper middle income,1983,EG.USE.PCAP.KG.OE,Latin America & Caribbean,563.22
+PER,Peru,Upper middle income,1984,EG.USE.PCAP.KG.OE,Latin America & Caribbean,563.3
+PER,Peru,Upper middle income,1985,EG.USE.PCAP.KG.OE,Latin America & Caribbean,535.79
+PER,Peru,Upper middle income,1986,EG.USE.PCAP.KG.OE,Latin America & Caribbean,533.23
+PER,Peru,Upper middle income,1987,EG.USE.PCAP.KG.OE,Latin America & Caribbean,535.23
+PER,Peru,Upper middle income,1988,EG.USE.PCAP.KG.OE,Latin America & Caribbean,514.64
+PER,Peru,Upper middle income,1989,EG.USE.PCAP.KG.OE,Latin America & Caribbean,464.43
+PER,Peru,Upper middle income,1990,EG.USE.PCAP.KG.OE,Latin America & Caribbean,440.28
+PER,Peru,Upper middle income,1991,EG.USE.PCAP.KG.OE,Latin America & Caribbean,422.83
+PER,Peru,Upper middle income,1992,EG.USE.PCAP.KG.OE,Latin America & Caribbean,402.94
+PER,Peru,Upper middle income,1993,EG.USE.PCAP.KG.OE,Latin America & Caribbean,421.61
+PER,Peru,Upper middle income,1994,EG.USE.PCAP.KG.OE,Latin America & Caribbean,428.2
+PER,Peru,Upper middle income,1995,EG.USE.PCAP.KG.OE,Latin America & Caribbean,448.74
+PER,Peru,Upper middle income,1996,EG.USE.PCAP.KG.OE,Latin America & Caribbean,453.67
+PER,Peru,Upper middle income,1997,EG.USE.PCAP.KG.OE,Latin America & Caribbean,431.21
+PER,Peru,Upper middle income,1998,EG.USE.PCAP.KG.OE,Latin America & Caribbean,445.62
+PER,Peru,Upper middle income,1999,EG.USE.PCAP.KG.OE,Latin America & Caribbean,466.9
+PER,Peru,Upper middle income,2000,EG.USE.PCAP.KG.OE,Latin America & Caribbean,458.52
+PER,Peru,Upper middle income,2001,EG.USE.PCAP.KG.OE,Latin America & Caribbean,436.61
+PER,Peru,Upper middle income,2002,EG.USE.PCAP.KG.OE,Latin America & Caribbean,434.37
+PER,Peru,Upper middle income,2003,EG.USE.PCAP.KG.OE,Latin America & Caribbean,421.31
+PER,Peru,Upper middle income,2004,EG.USE.PCAP.KG.OE,Latin America & Caribbean,461.56
+PER,Peru,Upper middle income,2005,EG.USE.PCAP.KG.OE,Latin America & Caribbean,484.76
+PER,Peru,Upper middle income,2006,EG.USE.PCAP.KG.OE,Latin America & Caribbean,466.81
+PER,Peru,Upper middle income,2007,EG.USE.PCAP.KG.OE,Latin America & Caribbean,501.22
+PER,Peru,Upper middle income,2008,EG.USE.PCAP.KG.OE,Latin America & Caribbean,521.94
+PER,Peru,Upper middle income,2009,EG.USE.PCAP.KG.OE,Latin America & Caribbean,543.34
+PER,Peru,Upper middle income,2010,EG.USE.PCAP.KG.OE,Latin America & Caribbean,638.62
+PER,Peru,Upper middle income,2011,EG.USE.PCAP.KG.OE,Latin America & Caribbean,644.56
+PER,Peru,Upper middle income,2012,EG.USE.PCAP.KG.OE,Latin America & Caribbean,687.3
+PER,Peru,Upper middle income,2013,EG.USE.PCAP.KG.OE,Latin America & Caribbean,678.12
+PRY,Paraguay,Upper middle income,1980,EG.USE.PCAP.KG.OE,Latin America & Caribbean,677.08
+PRY,Paraguay,Upper middle income,1981,EG.USE.PCAP.KG.OE,Latin America & Caribbean,657.92
+PRY,Paraguay,Upper middle income,1982,EG.USE.PCAP.KG.OE,Latin America & Caribbean,652.96
+PRY,Paraguay,Upper middle income,1983,EG.USE.PCAP.KG.OE,Latin America & Caribbean,649.68
+PRY,Paraguay,Upper middle income,1984,EG.USE.PCAP.KG.OE,Latin America & Caribbean,643.49
+PRY,Paraguay,Upper middle income,1985,EG.USE.PCAP.KG.OE,Latin America & Caribbean,638.89
+PRY,Paraguay,Upper middle income,1986,EG.USE.PCAP.KG.OE,Latin America & Caribbean,647.22
+PRY,Paraguay,Upper middle income,1987,EG.USE.PCAP.KG.OE,Latin America & Caribbean,726.47
+PRY,Paraguay,Upper middle income,1988,EG.USE.PCAP.KG.OE,Latin America & Caribbean,755.27
+PRY,Paraguay,Upper middle income,1989,EG.USE.PCAP.KG.OE,Latin America & Caribbean,800.67
+PRY,Paraguay,Upper middle income,1990,EG.USE.PCAP.KG.OE,Latin America & Caribbean,756.98
+PRY,Paraguay,Upper middle income,1991,EG.USE.PCAP.KG.OE,Latin America & Caribbean,761.08
+PRY,Paraguay,Upper middle income,1992,EG.USE.PCAP.KG.OE,Latin America & Caribbean,738.63
+PRY,Paraguay,Upper middle income,1993,EG.USE.PCAP.KG.OE,Latin America & Caribbean,747.86
+PRY,Paraguay,Upper middle income,1994,EG.USE.PCAP.KG.OE,Latin America & Caribbean,797.56
+PRY,Paraguay,Upper middle income,1995,EG.USE.PCAP.KG.OE,Latin America & Caribbean,852.66
+PRY,Paraguay,Upper middle income,1996,EG.USE.PCAP.KG.OE,Latin America & Caribbean,852.6
+PRY,Paraguay,Upper middle income,1997,EG.USE.PCAP.KG.OE,Latin America & Caribbean,906.54
+PRY,Paraguay,Upper middle income,1998,EG.USE.PCAP.KG.OE,Latin America & Caribbean,875.72
+PRY,Paraguay,Upper middle income,1999,EG.USE.PCAP.KG.OE,Latin America & Caribbean,818.56
+PRY,Paraguay,Upper middle income,2000,EG.USE.PCAP.KG.OE,Latin America & Caribbean,751.63
+PRY,Paraguay,Upper middle income,2001,EG.USE.PCAP.KG.OE,Latin America & Caribbean,752.1
+PRY,Paraguay,Upper middle income,2002,EG.USE.PCAP.KG.OE,Latin America & Caribbean,735.07
+PRY,Paraguay,Upper middle income,2003,EG.USE.PCAP.KG.OE,Latin America & Caribbean,740.79
+PRY,Paraguay,Upper middle income,2004,EG.USE.PCAP.KG.OE,Latin America & Caribbean,739.14
+PRY,Paraguay,Upper middle income,2005,EG.USE.PCAP.KG.OE,Latin America & Caribbean,722.95
+PRY,Paraguay,Upper middle income,2006,EG.USE.PCAP.KG.OE,Latin America & Caribbean,737.19
+PRY,Paraguay,Upper middle income,2007,EG.USE.PCAP.KG.OE,Latin America & Caribbean,756.46
+PRY,Paraguay,Upper middle income,2008,EG.USE.PCAP.KG.OE,Latin America & Caribbean,785.07
+PRY,Paraguay,Upper middle income,2009,EG.USE.PCAP.KG.OE,Latin America & Caribbean,787.33
+PRY,Paraguay,Upper middle income,2010,EG.USE.PCAP.KG.OE,Latin America & Caribbean,833.44
+PRY,Paraguay,Upper middle income,2011,EG.USE.PCAP.KG.OE,Latin America & Caribbean,834.34
+PRY,Paraguay,Upper middle income,2012,EG.USE.PCAP.KG.OE,Latin America & Caribbean,843.62
+PRY,Paraguay,Upper middle income,2013,EG.USE.PCAP.KG.OE,Latin America & Caribbean,822.67
+SLV,El Salvador,Upper middle income,1980,EG.USE.PCAP.KG.OE,Latin America & Caribbean,558.65
+SLV,El Salvador,Upper middle income,1981,EG.USE.PCAP.KG.OE,Latin America & Caribbean,598.29
+SLV,El Salvador,Upper middle income,1982,EG.USE.PCAP.KG.OE,Latin America & Caribbean,611.07
+SLV,El Salvador,Upper middle income,1983,EG.USE.PCAP.KG.OE,Latin America & Caribbean,576.11
+SLV,El Salvador,Upper middle income,1984,EG.USE.PCAP.KG.OE,Latin America & Caribbean,576.67
+SLV,El Salvador,Upper middle income,1985,EG.USE.PCAP.KG.OE,Latin America & Caribbean,538.13
+SLV,El Salvador,Upper middle income,1986,EG.USE.PCAP.KG.OE,Latin America & Caribbean,458.53
+SLV,El Salvador,Upper middle income,1987,EG.USE.PCAP.KG.OE,Latin America & Caribbean,501.96
+SLV,El Salvador,Upper middle income,1988,EG.USE.PCAP.KG.OE,Latin America & Caribbean,459
+SLV,El Salvador,Upper middle income,1989,EG.USE.PCAP.KG.OE,Latin America & Caribbean,461.57
+SLV,El Salvador,Upper middle income,1990,EG.USE.PCAP.KG.OE,Latin America & Caribbean,459.96
+SLV,El Salvador,Upper middle income,1991,EG.USE.PCAP.KG.OE,Latin America & Caribbean,497.03
+SLV,El Salvador,Upper middle income,1992,EG.USE.PCAP.KG.OE,Latin America & Caribbean,510.31
+SLV,El Salvador,Upper middle income,1993,EG.USE.PCAP.KG.OE,Latin America & Caribbean,529.65
+SLV,El Salvador,Upper middle income,1994,EG.USE.PCAP.KG.OE,Latin America & Caribbean,554.85
+SLV,El Salvador,Upper middle income,1995,EG.USE.PCAP.KG.OE,Latin America & Caribbean,584.33
+SLV,El Salvador,Upper middle income,1996,EG.USE.PCAP.KG.OE,Latin America & Caribbean,553.73
+SLV,El Salvador,Upper middle income,1997,EG.USE.PCAP.KG.OE,Latin America & Caribbean,608.04
+SLV,El Salvador,Upper middle income,1998,EG.USE.PCAP.KG.OE,Latin America & Caribbean,620.96
+SLV,El Salvador,Upper middle income,1999,EG.USE.PCAP.KG.OE,Latin America & Caribbean,640.12
+SLV,El Salvador,Upper middle income,2000,EG.USE.PCAP.KG.OE,Latin America & Caribbean,665.8
+SLV,El Salvador,Upper middle income,2001,EG.USE.PCAP.KG.OE,Latin America & Caribbean,693.12
+SLV,El Salvador,Upper middle income,2002,EG.USE.PCAP.KG.OE,Latin America & Caribbean,703.94
+SLV,El Salvador,Upper middle income,2003,EG.USE.PCAP.KG.OE,Latin America & Caribbean,732.94
+SLV,El Salvador,Upper middle income,2004,EG.USE.PCAP.KG.OE,Latin America & Caribbean,725.91
+SLV,El Salvador,Upper middle income,2005,EG.USE.PCAP.KG.OE,Latin America & Caribbean,746.56
+SLV,El Salvador,Upper middle income,2006,EG.USE.PCAP.KG.OE,Latin America & Caribbean,784.51
+SLV,El Salvador,Upper middle income,2007,EG.USE.PCAP.KG.OE,Latin America & Caribbean,740.98
+SLV,El Salvador,Upper middle income,2008,EG.USE.PCAP.KG.OE,Latin America & Caribbean,741.2
+SLV,El Salvador,Upper middle income,2009,EG.USE.PCAP.KG.OE,Latin America & Caribbean,691.59
+SLV,El Salvador,Upper middle income,2010,EG.USE.PCAP.KG.OE,Latin America & Caribbean,695.13
+SLV,El Salvador,Upper middle income,2011,EG.USE.PCAP.KG.OE,Latin America & Caribbean,699.18
+SLV,El Salvador,Upper middle income,2012,EG.USE.PCAP.KG.OE,Latin America & Caribbean,685.75
+SLV,El Salvador,Upper middle income,2013,EG.USE.PCAP.KG.OE,Latin America & Caribbean,644.85
+SUR,Suriname,Upper middle income,2000,EG.USE.PCAP.KG.OE,Latin America & Caribbean,1316.67
+SUR,Suriname,Upper middle income,2001,EG.USE.PCAP.KG.OE,Latin America & Caribbean,1385.62
+SUR,Suriname,Upper middle income,2002,EG.USE.PCAP.KG.OE,Latin America & Caribbean,952.13
+SUR,Suriname,Upper middle income,2003,EG.USE.PCAP.KG.OE,Latin America & Caribbean,999.4
+SUR,Suriname,Upper middle income,2004,EG.USE.PCAP.KG.OE,Latin America & Caribbean,1080.45
+SUR,Suriname,Upper middle income,2005,EG.USE.PCAP.KG.OE,Latin America & Caribbean,1224.41
+SUR,Suriname,Upper middle income,2006,EG.USE.PCAP.KG.OE,Latin America & Caribbean,1150.81
+SUR,Suriname,Upper middle income,2007,EG.USE.PCAP.KG.OE,Latin America & Caribbean,1076.6
+SUR,Suriname,Upper middle income,2008,EG.USE.PCAP.KG.OE,Latin America & Caribbean,1124.39
+SUR,Suriname,Upper middle income,2009,EG.USE.PCAP.KG.OE,Latin America & Caribbean,1116.47
+SUR,Suriname,Upper middle income,2010,EG.USE.PCAP.KG.OE,Latin America & Caribbean,1313.55
+SUR,Suriname,Upper middle income,2011,EG.USE.PCAP.KG.OE,Latin America & Caribbean,1265.43
+SUR,Suriname,Upper middle income,2012,EG.USE.PCAP.KG.OE,Latin America & Caribbean,1396.88
+SUR,Suriname,Upper middle income,2013,EG.USE.PCAP.KG.OE,Latin America & Caribbean,1226.91
+TTO,Trinidad and Tobago,High income,1980,EG.USE.PCAP.KG.OE,Latin America & Caribbean,3394
+TTO,Trinidad and Tobago,High income,1981,EG.USE.PCAP.KG.OE,Latin America & Caribbean,3556.8
+TTO,Trinidad and Tobago,High income,1982,EG.USE.PCAP.KG.OE,Latin America & Caribbean,3533.02
+TTO,Trinidad and Tobago,High income,1983,EG.USE.PCAP.KG.OE,Latin America & Caribbean,3617.74
+TTO,Trinidad and Tobago,High income,1984,EG.USE.PCAP.KG.OE,Latin America & Caribbean,4040.86
+TTO,Trinidad and Tobago,High income,1985,EG.USE.PCAP.KG.OE,Latin America & Caribbean,4243.12
+TTO,Trinidad and Tobago,High income,1986,EG.USE.PCAP.KG.OE,Latin America & Caribbean,4374.54
+TTO,Trinidad and Tobago,High income,1987,EG.USE.PCAP.KG.OE,Latin America & Caribbean,4065.52
+TTO,Trinidad and Tobago,High income,1988,EG.USE.PCAP.KG.OE,Latin America & Caribbean,4412.93
+TTO,Trinidad and Tobago,High income,1989,EG.USE.PCAP.KG.OE,Latin America & Caribbean,4245.38
+TTO,Trinidad and Tobago,High income,1990,EG.USE.PCAP.KG.OE,Latin America & Caribbean,4727.38
+TTO,Trinidad and Tobago,High income,1991,EG.USE.PCAP.KG.OE,Latin America & Caribbean,4662.68
+TTO,Trinidad and Tobago,High income,1992,EG.USE.PCAP.KG.OE,Latin America & Caribbean,5088.83
+TTO,Trinidad and Tobago,High income,1993,EG.USE.PCAP.KG.OE,Latin America & Caribbean,4838.28
+TTO,Trinidad and Tobago,High income,1994,EG.USE.PCAP.KG.OE,Latin America & Caribbean,4838.69
+TTO,Trinidad and Tobago,High income,1995,EG.USE.PCAP.KG.OE,Latin America & Caribbean,4702
+TTO,Trinidad and Tobago,High income,1996,EG.USE.PCAP.KG.OE,Latin America & Caribbean,5536.95
+TTO,Trinidad and Tobago,High income,1997,EG.USE.PCAP.KG.OE,Latin America & Caribbean,5200.73
+TTO,Trinidad and Tobago,High income,1998,EG.USE.PCAP.KG.OE,Latin America & Caribbean,6018.62
+TTO,Trinidad and Tobago,High income,1999,EG.USE.PCAP.KG.OE,Latin America & Caribbean,7003.63
+TTO,Trinidad and Tobago,High income,2000,EG.USE.PCAP.KG.OE,Latin America & Caribbean,7385.69
+TTO,Trinidad and Tobago,High income,2001,EG.USE.PCAP.KG.OE,Latin America & Caribbean,8208.76
+TTO,Trinidad and Tobago,High income,2002,EG.USE.PCAP.KG.OE,Latin America & Caribbean,8883.2
+TTO,Trinidad and Tobago,High income,2003,EG.USE.PCAP.KG.OE,Latin America & Caribbean,9879.02
+TTO,Trinidad and Tobago,High income,2004,EG.USE.PCAP.KG.OE,Latin America & Caribbean,10312.2
+TTO,Trinidad and Tobago,High income,2005,EG.USE.PCAP.KG.OE,Latin America & Caribbean,11771.6
+TTO,Trinidad and Tobago,High income,2006,EG.USE.PCAP.KG.OE,Latin America & Caribbean,13059.5
+TTO,Trinidad and Tobago,High income,2007,EG.USE.PCAP.KG.OE,Latin America & Caribbean,13810.54
+TTO,Trinidad and Tobago,High income,2008,EG.USE.PCAP.KG.OE,Latin America & Caribbean,13332.36
+TTO,Trinidad and Tobago,High income,2009,EG.USE.PCAP.KG.OE,Latin America & Caribbean,13396.56
+TTO,Trinidad and Tobago,High income,2010,EG.USE.PCAP.KG.OE,Latin America & Caribbean,14228.58
+TTO,Trinidad and Tobago,High income,2011,EG.USE.PCAP.KG.OE,Latin America & Caribbean,13903.56
+TTO,Trinidad and Tobago,High income,2012,EG.USE.PCAP.KG.OE,Latin America & Caribbean,13456.28
+TTO,Trinidad and Tobago,High income,2013,EG.USE.PCAP.KG.OE,Latin America & Caribbean,13604.32
+URY,Uruguay,High income,1980,EG.USE.PCAP.KG.OE,Latin America & Caribbean,894.9
+URY,Uruguay,High income,1981,EG.USE.PCAP.KG.OE,Latin America & Caribbean,858.9
+URY,Uruguay,High income,1982,EG.USE.PCAP.KG.OE,Latin America & Caribbean,759.74
+URY,Uruguay,High income,1983,EG.USE.PCAP.KG.OE,Latin America & Caribbean,700.15
+URY,Uruguay,High income,1984,EG.USE.PCAP.KG.OE,Latin America & Caribbean,669.33
+URY,Uruguay,High income,1985,EG.USE.PCAP.KG.OE,Latin America & Caribbean,660.61
+URY,Uruguay,High income,1986,EG.USE.PCAP.KG.OE,Latin America & Caribbean,677.8
+URY,Uruguay,High income,1987,EG.USE.PCAP.KG.OE,Latin America & Caribbean,716.38
+URY,Uruguay,High income,1988,EG.USE.PCAP.KG.OE,Latin America & Caribbean,763.2
+URY,Uruguay,High income,1989,EG.USE.PCAP.KG.OE,Latin America & Caribbean,778.08
+URY,Uruguay,High income,1990,EG.USE.PCAP.KG.OE,Latin America & Caribbean,722.22
+URY,Uruguay,High income,1991,EG.USE.PCAP.KG.OE,Latin America & Caribbean,778.59
+URY,Uruguay,High income,1992,EG.USE.PCAP.KG.OE,Latin America & Caribbean,855.43
+URY,Uruguay,High income,1993,EG.USE.PCAP.KG.OE,Latin America & Caribbean,793.76
+URY,Uruguay,High income,1994,EG.USE.PCAP.KG.OE,Latin America & Caribbean,753.89
+URY,Uruguay,High income,1995,EG.USE.PCAP.KG.OE,Latin America & Caribbean,801.67
+URY,Uruguay,High income,1996,EG.USE.PCAP.KG.OE,Latin America & Caribbean,878.69
+URY,Uruguay,High income,1997,EG.USE.PCAP.KG.OE,Latin America & Caribbean,887.67
+URY,Uruguay,High income,1998,EG.USE.PCAP.KG.OE,Latin America & Caribbean,908.72
+URY,Uruguay,High income,1999,EG.USE.PCAP.KG.OE,Latin America & Caribbean,986.96
+URY,Uruguay,High income,2000,EG.USE.PCAP.KG.OE,Latin America & Caribbean,939.15
+URY,Uruguay,High income,2001,EG.USE.PCAP.KG.OE,Latin America & Caribbean,821.46
+URY,Uruguay,High income,2002,EG.USE.PCAP.KG.OE,Latin America & Caribbean,767.62
+URY,Uruguay,High income,2003,EG.USE.PCAP.KG.OE,Latin America & Caribbean,762.18
+URY,Uruguay,High income,2004,EG.USE.PCAP.KG.OE,Latin America & Caribbean,865.78
+URY,Uruguay,High income,2005,EG.USE.PCAP.KG.OE,Latin America & Caribbean,891.34
+URY,Uruguay,High income,2006,EG.USE.PCAP.KG.OE,Latin America & Caribbean,957.98
+URY,Uruguay,High income,2007,EG.USE.PCAP.KG.OE,Latin America & Caribbean,951
+URY,Uruguay,High income,2008,EG.USE.PCAP.KG.OE,Latin America & Caribbean,1244.9
+URY,Uruguay,High income,2009,EG.USE.PCAP.KG.OE,Latin America & Caribbean,1235.02
+URY,Uruguay,High income,2010,EG.USE.PCAP.KG.OE,Latin America & Caribbean,1219.05
+URY,Uruguay,High income,2011,EG.USE.PCAP.KG.OE,Latin America & Caribbean,1314.33
+URY,Uruguay,High income,2012,EG.USE.PCAP.KG.OE,Latin America & Caribbean,1375.59
+URY,Uruguay,High income,2013,EG.USE.PCAP.KG.OE,Latin America & Caribbean,1361.15
+VCT,St. Vincent and the Grenadines,Upper middle income,1990,EG.USE.PCAP.KG.OE,Latin America & Caribbean,261.66
+VCT,St. Vincent and the Grenadines,Upper middle income,2004,EG.USE.PCAP.KG.OE,Latin America & Caribbean,586.1
+VCT,St. Vincent and the Grenadines,Upper middle income,2005,EG.USE.PCAP.KG.OE,Latin America & Caribbean,597.98
+VCT,St. Vincent and the Grenadines,Upper middle income,2006,EG.USE.PCAP.KG.OE,Latin America & Caribbean,628.21
+VCT,St. Vincent and the Grenadines,Upper middle income,2007,EG.USE.PCAP.KG.OE,Latin America & Caribbean,631.63
+VEN,Venezuela,,1980,EG.USE.PCAP.KG.OE,Latin America & Caribbean,2147.55
+VEN,Venezuela,,1981,EG.USE.PCAP.KG.OE,Latin America & Caribbean,2239.16
+VEN,Venezuela,,1982,EG.USE.PCAP.KG.OE,Latin America & Caribbean,2170.59
+VEN,Venezuela,,1983,EG.USE.PCAP.KG.OE,Latin America & Caribbean,2277.59
+VEN,Venezuela,,1984,EG.USE.PCAP.KG.OE,Latin America & Caribbean,2164.5
+VEN,Venezuela,,1985,EG.USE.PCAP.KG.OE,Latin America & Caribbean,2088.07
+VEN,Venezuela,,1986,EG.USE.PCAP.KG.OE,Latin America & Caribbean,2128.51
+VEN,Venezuela,,1987,EG.USE.PCAP.KG.OE,Latin America & Caribbean,2076.1
+VEN,Venezuela,,1988,EG.USE.PCAP.KG.OE,Latin America & Caribbean,1954.51
+VEN,Venezuela,,1989,EG.USE.PCAP.KG.OE,Latin America & Caribbean,1958.06
+VEN,Venezuela,,1990,EG.USE.PCAP.KG.OE,Latin America & Caribbean,2004.37
+VEN,Venezuela,,1991,EG.USE.PCAP.KG.OE,Latin America & Caribbean,2044.31
+VEN,Venezuela,,1992,EG.USE.PCAP.KG.OE,Latin America & Caribbean,2234.3
+VEN,Venezuela,,1993,EG.USE.PCAP.KG.OE,Latin America & Caribbean,2034.48
+VEN,Venezuela,,1994,EG.USE.PCAP.KG.OE,Latin America & Caribbean,2307.11
+VEN,Venezuela,,1995,EG.USE.PCAP.KG.OE,Latin America & Caribbean,2118.72
+VEN,Venezuela,,1996,EG.USE.PCAP.KG.OE,Latin America & Caribbean,2211.79
+VEN,Venezuela,,1997,EG.USE.PCAP.KG.OE,Latin America & Caribbean,2157.45
+VEN,Venezuela,,1998,EG.USE.PCAP.KG.OE,Latin America & Caribbean,2226.6
+VEN,Venezuela,,1999,EG.USE.PCAP.KG.OE,Latin America & Caribbean,2081.75
+VEN,Venezuela,,2000,EG.USE.PCAP.KG.OE,Latin America & Caribbean,2098.95
+VEN,Venezuela,,2001,EG.USE.PCAP.KG.OE,Latin America & Caribbean,2132.6
+VEN,Venezuela,,2002,EG.USE.PCAP.KG.OE,Latin America & Caribbean,2273.47
+VEN,Venezuela,,2003,EG.USE.PCAP.KG.OE,Latin America & Caribbean,2054.14
+VEN,Venezuela,,2004,EG.USE.PCAP.KG.OE,Latin America & Caribbean,2151.19
+VEN,Venezuela,,2005,EG.USE.PCAP.KG.OE,Latin America & Caribbean,2111.26
+VEN,Venezuela,,2006,EG.USE.PCAP.KG.OE,Latin America & Caribbean,2314.44
+VEN,Venezuela,,2007,EG.USE.PCAP.KG.OE,Latin America & Caribbean,2107.81
+VEN,Venezuela,,2008,EG.USE.PCAP.KG.OE,Latin America & Caribbean,2322.85
+VEN,Venezuela,,2009,EG.USE.PCAP.KG.OE,Latin America & Caribbean,2295.34
+VEN,Venezuela,,2010,EG.USE.PCAP.KG.OE,Latin America & Caribbean,2520.65
+VEN,Venezuela,,2011,EG.USE.PCAP.KG.OE,Latin America & Caribbean,2309.51
+VEN,Venezuela,,2012,EG.USE.PCAP.KG.OE,Latin America & Caribbean,2479.16
+VEN,Venezuela,,2013,EG.USE.PCAP.KG.OE,Latin America & Caribbean,2304.53
