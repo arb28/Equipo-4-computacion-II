@@ -24,3 +24,13 @@ El archivo principal es `Trabajo final compu.xlsx`, que contiene una hoja con la
 - Perú
 - Uruguay
 - Venezuela
+
+# 📊 Proyecto de Análisis de Datos — Dashboard Interactivo
+
+Este repositorio contiene el modelo de datos, transformaciones y visualizaciones desarrolladas para el proyecto de análisis estadístico. El dashboard permite explorar los principales indicadores, segmentaciones y resultados obtenidos.
+
+## 🔗 Acceso al Dashboard
+
+Puedes visualizar el dashboard en el siguiente enlace:
+
+👉 [Ver Dashboard]https://app.powerbi.com/links/pvN-oGv4rs?ctid=c71c02cf-3176-46c7-b581-e1ab8d96aa43&pbi_source=linkShare
