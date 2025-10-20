@@ -1,1 +1,3 @@
-https://www.kaggle.com/datasets/guillemservera/world-development-indicators
+## Recursos de Datos
+
+- [Indicadores de desarrollo mundial – Kaggle](https://www.kaggle.com/datasets/guillemservera/world-development-indicators): Indicadores económicos, sociales y ambientales por país y año.
