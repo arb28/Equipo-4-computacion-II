@@ -33,4 +33,4 @@ Este repositorio contiene el modelo de datos, transformaciones y visualizaciones
 
 Puedes visualizar el dashboard en el siguiente enlace:
 
-👉 [Ver Dashboard]https://app.powerbi.com/links/pvN-oGv4rs?ctid=c71c02cf-3176-46c7-b581-e1ab8d96aa43&pbi_source=linkShare
+👉 [Ver Dashboard]https://app.powerbi.com/links/f-x1X1rf06?ctid=c71c02cf-3176-46c7-b581-e1ab8d96aa43&pbi_source=linkShare
