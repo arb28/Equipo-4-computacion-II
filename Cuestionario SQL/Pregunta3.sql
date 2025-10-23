@@ -1,7 +1,7 @@
-SELECT i.country_name AS Pais,
-       i.value AS PIB
-FROM indicators AS i
-JOIN country AS c
+SELECT i.country_name as Pais,
+       i.value as PIB
+FROM indicators as i
+JOIN country as c
 	 ON i.country_code = c.country_code
 WHERE year = 2011
   AND indicator_name = 'GDP (current US$)'
