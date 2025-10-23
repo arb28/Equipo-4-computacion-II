@@ -1,3 +1,6 @@
+-- 3.	Obtén los 5 países con mayor valor 
+-- de PIB total en el año 2011.
+
 SELECT i.country_name as Pais,
        i.value as PIB
 FROM indicators as i
