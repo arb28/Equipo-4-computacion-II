@@ -25,9 +25,9 @@ El archivo principal es `Trabajo final compu.xlsx`, que contiene una hoja con la
 - Uruguay
 - Venezuela
 
-# 📊 Proyecto de Análisis de Datos — Dashboard Interactivo
+# 📊 Proyecto de Análisis de Datos — Dashboard Interactivo y Reporte Dinámico
 
-Este repositorio contiene el modelo de datos, transformaciones y visualizaciones desarrolladas para el proyecto de análisis estadístico. El dashboard permite explorar los principales indicadores, segmentaciones y resultados obtenidos.
+Este repositorio contiene el modelo de datos, transformaciones y visualizaciones desarrolladas para el proyecto de análisis estadístico. El dashboard permite explorar los principales indicadores, segmentaciones y resultados obtenidos. Mientras, el reporte dinámico nos deja ver un poco el proceso detrás de este manejo y estudio de los datos.
 
 ## 🔗 Acceso al Dashboard
 
