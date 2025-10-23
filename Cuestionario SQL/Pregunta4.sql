@@ -1,3 +1,7 @@
+-- 4.	Calcula el promedio del valor del indicador 
+-- “Life expectancy at birth, total” por grupo 
+-- de ingreso en el año 2009.
+
 SELECT c.income_group as 'Grupo de ingreso',
        round(AVG(i.value),3) as 'Expectativa de vida'      
 FROM indicators as i
